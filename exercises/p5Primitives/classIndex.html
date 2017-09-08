@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--p5 core library CDN-->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.min.js"></script>
+        <script>
+            var x = [];
+            var y = [];
+            var cX, cY;
+            var a;
+            
+            function setup() {
+                createCanvas(windowWidth, windowHeight);
+                fill(255, 100, 0, 128);
+            }
+            
+            function mouseReleased() {
+                
+                if (x.length > 0) {
+                    // put the pont to the special place index 1
+                    x.splice(1, 0, mouseX);
+                    y.splice(1, 0, mouseY);
+                } else {
+                    // add two identical points to the array
+                    x.push(mouseX);
+                    y.push(mouseY);
+                    x.push(mouseX);
+                    y.push(mouseY);
+                }
+                
+                display();
+            }
+            
+            function display() {
+                background('lightgray');
+                fill('lavender');
+                // return if there are insufficient points for an area
+                if (x.length < 3)
+                    return;
+                
+                a = 0;
+                cX = 0;
+                cY = 0;
+                
+                // calculate centroid
+                for(var i=0; i<x.length - 1; i++) {
+                    // enumerate
+                    cX += (x[i] + x[i+1]) * (x[i] * y[i+1] - x[i+1] * y[i]);
+                    cY += (y[i] + y[i+1]) * (x[i] * y[i+1] - x[i+1] * y[i]);
+                    a += x[i] * y[i+1] - x[i+1] * y[i];
+                }
+            
+                a = 0.5 * a;
+                cX = cX / (6*a);
+                cY = cY / (6*a);
+            
+                // draw polygon   
+                beginShape();
+                for(var i=0; i<x.length; i++) {
+                    vertex(x[i], y[i]);
+                    text(i, x[i], y[i]);
+                }
+                endShape();
+                fill ('blue');
+                ellipse(cX, cY, 10, 10);
+            }
+        </script>
+    </head>
+    <body>
+    </body>
+</html>

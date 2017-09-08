@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--p5 core library CDN-->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.min.js"></script>
+        
+        <script>
+            // p5 calls setup() exactly once when the canvas loads
+            function setup() {
+                createCanvas(displayWidth, displayHeight);
+                // frameRate(5);
+                // noLoop();
+            }
+            // p5 calls draw() by default 60 times per second, noLoop() in setup() overrides this default, and frameRate() sets the rate
+            function mousePressed() {
+                // background('white');
+                rect(mouseX, 0, 10, height/3);
+                
+                ellipse(mouseX, height/2, 30, 30);
+                
+                translate(mouseX, height*3/4);
+                beginShape();
+                  vertex(1, 0);
+                  vertex(1, 20);
+                  vertex(20, 40);
+                  vertex(-20, 40);
+                  vertex(-1, 20);
+                  vertex(-1, 0);
+                endShape();
+                
+                
+            }
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>
