@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--p5 core libraru[i]CDN-->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.min.js"></script>
+
+        <script>
+            // p5 calls setup() exactlu[i]once when the canvas loads
+            var x= [],
+                y= [], 
+                xSpeed = [],
+                ySpeed = [];
+            
+            var quantity= 10;
+            var score = 0;
+            var paddleColor;
+
+            function setup() {
+                createCanvas(500, 500);
+                frameRate(30);
+                // noLoop();
+                for (var i = 0; i < quantity; i++){
+                    x[i] = random(width/2);
+                    y[i] = random(height/2);
+                    ySpeed[i] = random(-2.5,2.5);
+                    xSpeed[i] = random(-2.5,2.5);
+                }
+                
+            rectMode(CENTER);
+            paddleColor = color(255, 255, 0);
+
+            }
+
+            function draw(){
+
+                background('lightgray');
+                for (var i = 0; i < quantity; i++){
+                    ellipse(x[i], y[i], 10, 10);
+                    y[i] += ySpeed[i];
+                    x[i] += xSpeed[i];
+                
+                    if(x[i]> width - 5 || x[i]< 0){
+                        xSpeed[i] = -xSpeed[i];
+                    }
+    
+                    if(y[i]>= height - 35 && abs(x[i]- mouseX) < width/12 && y[i]< height - 35 + ySpeed[i]){
+                        ySpeed[i] = -ySpeed[i];
+                        ySpeed[i] *= 1.2;
+                        xSpeed[i] *= 1.2;
+                        score++;
+                    }
+                    
+                    if(y[i]<= 0){
+                        ySpeed[i] = -ySpeed[i];
+                    }
+                }
+            
+                fill(paddleColor);
+                rect(mouseX, height - 30, width / 6, 10, 5);
+                fill('black');
+                text(score, mouseX, height-25);
+            }
+
+        </script>
+    </head>
+    <body>
+
+    </body>
+</html>
