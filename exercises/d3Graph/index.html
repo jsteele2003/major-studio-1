@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+    </head>
+
+    <body>
+        <div id = "target"></div>
+        
+        <script>
+            var graph = d3.select('#target')
+                        .append('svg')
+                        .attr('width', window.innerWidth)
+                        .attr('height', window.innerHeight);
+            
+            d3.json("museum.json", function jsonCallback(error, data){
+                if (error) {
+                    throw error;
+                }
+                svgCallback(data);
+            });
+            
+            function svgCallback(data){
+                temp = [];
+                for(var i in data){
+                    temp.push(data[i].operatingExpenses);
+                }
+                max = d3.max(temp);
+                console.log(max);
+                
+                var x = d3.scaleLinear()
+                .domain([0, data.length])
+                .range([0, window.innerWidth]);
+                
+                console.log(x(0));
+                
+                var y = d3.scaleLinear()
+                .domain([0, max])
+                .range([0, window.innerHeight]);
+                
+                 graph.append('g')
+                .attr("id", "group");
+                
+                var group = graph.select('#group')
+                        .selectAll('g')
+                        .data(data)
+                        .enter()
+                        .append('g')
+                        .attr('x', function(d, i){
+                            return x(i);
+                        })
+                        .attr('transform', function(d, i){
+                            //css syntax
+                            return 'translate(' + x(i) + ',' + 0 + ')';
+                        });
+                
+                group.append('rect')
+                        .attr('class', 'bar')
+                        .attr('y', function(d, i){
+                            return window.innerHeight - y(d.operatingExpenses);
+                        })
+                        .attr('width', function(d, i){
+                            return x(1);
+                        })
+                        .attr('height', function(d,i){
+                            return y(d.operatingExpenses);
+                        })
+            
+                group.append('text')
+            	    .text(function(d) { 
+            	        return d.name;
+            	    })
+            	    .attr('transform', function(d, i) {
+            	        return 'translate(' +x(1)/2 +',' + (window.innerHeight - y(d.operatingExpenses)) + ')rotate(-90)'; 
+            	    });
+            }
+            
+           
+        </script>
+    </body>
+</html>

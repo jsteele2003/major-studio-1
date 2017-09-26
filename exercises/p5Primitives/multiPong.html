@@ -6,59 +6,77 @@
 
         <script>
             // p5 calls setup() exactlu[i]once when the canvas loads
-            var x= [],
-                y= [], 
-                xSpeed = [],
-                ySpeed = [];
-            
+    
             var quantity= 10;
             var score = 0;
-            var paddleColor;
+            var pongBalls = [];
 
             function setup() {
                 createCanvas(500, 500);
                 frameRate(30);
                 // noLoop();
                 for (var i = 0; i < quantity; i++){
-                    x[i] = random(width/2);
-                    y[i] = random(height/2);
-                    ySpeed[i] = random(-2.5,2.5);
-                    xSpeed[i] = random(-2.5,2.5);
+                    PongBalls.push(new PongBall(random(width), random(head)));
                 }
                 
             rectMode(CENTER);
-            paddleColor = color(255, 255, 0);
 
             }
 
             function draw(){
 
                 background('lightgray');
-                for (var i = 0; i < quantity; i++){
-                    ellipse(x[i], y[i], 10, 10);
-                    y[i] += ySpeed[i];
-                    x[i] += xSpeed[i];
                 
-                    if(x[i]> width - 5 || x[i]< 0){
-                        xSpeed[i] = -xSpeed[i];
-                    }
-    
-                    if(y[i]>= height - 35 && abs(x[i]- mouseX) < width/12 && y[i]< height - 35 + ySpeed[i]){
-                        ySpeed[i] = -ySpeed[i];
-                        ySpeed[i] *= 1.2;
-                        xSpeed[i] *= 1.2;
-                        score++;
-                    }
-                    
-                    if(y[i]<= 0){
-                        ySpeed[i] = -ySpeed[i];
-                    }
+                 for (var i = 0; i < quantity; i++) {
+                    pongBalls[i].update();
                 }
             
                 fill(paddleColor);
                 rect(mouseX, height - 30, width / 6, 10, 5);
                 fill('black');
                 text(score, mouseX, height-25);
+            }
+            
+            function PongBall(xPos, yPos){
+                this.x = xPos;
+                this.y = yPos;
+                this.xSpeed = random(-2.5, 2.5);
+                this.ySpeed = random(-2.5, 2.5);
+                
+                this.paddleColor;
+                paddleColor = color(255, 255, 0);
+                
+                this.update = function(){
+                    
+                    // position update
+                    this.x = this.x + xSpeed;
+                    this.y = this.y + ySpeed;
+
+                    // boundaries
+                    // horizontal boundary
+                    if (this.x > width - 5 || this.x < 5) {
+                        xSpeed = xSpeed * -1; // xSpeed *= -1;
+                    }
+
+                    // top boundary
+                    if (this.y + ySpeed < 5) {
+                        ySpeed = ySpeed * -1; // xSpeed *= -1;
+                    }
+
+                    // paddel boundary
+                    if (this.y >= height - 40 && abs(mouseX-this.x) < width/12 && this.y < height - 40 + ySpeed) {
+                        ySpeed = ySpeed * -1  // ySpeed *= -1;
+                        // fun items
+                        xSpeed *= 1.2;
+                        ySpeed *= 1.2;
+                        paddleColor = color(random(255), 0, 0);
+                        score++;
+
+                    }
+
+                    ellipse(this.x, this.y, 10, 10);
+                }
+                
             }
 
         </script>
