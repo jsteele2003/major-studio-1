@@ -11,6 +11,7 @@ var parser = parse(function(err, data){
         var key = new Object;
         key.income = elem[4];
         var gini = elem[5];
+        key.gini = gini;
         
         switch(true){
             case (gini > 60):
