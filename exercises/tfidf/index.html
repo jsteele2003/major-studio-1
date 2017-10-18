@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--p5js download: https://p5js.org/download/-->
+    <!--Content Delivery Network (CDN): https://cdnjs.com/libraries/p5.js-->
+    <title>Word Frequency</title>
+    <!--p5 core library, minified-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.13/p5.min.js" type="text/javascript"></script>
+    <!--p5 interaction with the DOM-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.13/addons/p5.dom.min.js" type="text/javascript"></script>
+
+    <script>
+      
+      var tf = {};
+      var textX = 100;
+      
+      
+      function setup(){
+        createCanvas(windowWidth, windowHeight);
+        loadStrings('sotu.txt', parse);
+      }
+      
+      function parse(data){
+        data.forEach(function(elem, index){
+          elem = elem.replace(/[^\w\s]/gi, '');
+          if(index != 0){
+            var line = elem.split(" ");
+            line.forEach(function(elem){
+              if(!tf.hasOwnProperty(elem)){
+                tf[elem] = 1;
+              } else{
+                tf[elem]++;
+              }
+            });
+          };
+        });
+        console.log(tf);
+        display();
+      }
+      
+      function display(){
+        background(255);
+        translate(textX, height/2);
+        
+        //using Object.keys to iterate through array
+        Object.keys(tf).forEach(function(currentKey) {
+          textSize(tf[currentKey] * 2);
+          text(currentKey, 0, 0);
+          var txtWidth = textWidth(currentKey);
+          translate(txtWidth, 0);
+        });
+        
+        //iterating through the Object itself
+        // for(key in Object.getOwnPropertyNames(tf)){
+        //   textSize((tf[key]));
+        //   text(key, 0 ,0);
+        //   var txtWidth = textWidth(key);
+        //   translate(txtWidth,0);
+        // }
+     
+      }
+      
+      function mouseDragged(){
+        textX += mouseX - pmouseX;
+        display();
+      }
+    
+    </script>
+  </head>
+  <body>
+  </body>
+</html>

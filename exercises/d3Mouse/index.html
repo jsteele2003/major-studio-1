@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <style type="text/css">
+        body : {
+             background: white;   
+        }
+    </style>
+    </head>
+    <body>
+    <script>
+        d3.select('body')
+            .append('svg')
+            .attr('width', window.innerWidth)
+            .attr('height', window.innerHeight)
+            .on('click', callback);
+                
+        function callback(){
+            var pos = d3.mouse(this);
+            
+            d3.select('svg')
+                .insert("circle")
+                    .attr('r', 0)
+                    .attr('cx', pos[0])
+                    .attr('cy', pos[1])
+                    .style('fill', 'transparent')
+                    .style('stroke', 'black')
+                .transition()
+                    .attr('r', 100)
+                    .ease(Math.sqrt)
+                    .duration(2000)
+                    .remove();
+        }
+    </script>
+    </body>

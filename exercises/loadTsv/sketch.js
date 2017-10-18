@@ -23,8 +23,6 @@
                     
                     text(amount + ' | ' + unit + ' | ' + item + ' | ' + source, width/2, 30 * (i+1));
                     
-                   
-                    
                     
                     
                 }
