@@ -12,7 +12,7 @@
   
   <script>
     function chartCtrl($scope){
-      $scope.year = 1960;
+      $scope.year = 1958;
       $scope.$watch('year', function(newYear){
         gini.updateChoropleth(timeData[newYear]);
       })
