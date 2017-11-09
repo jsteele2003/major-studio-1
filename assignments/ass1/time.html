@@ -43,7 +43,15 @@
         defaultFill : "grey"
         },
         
-        data : timeData["1960"] 
+        data : timeData["1960"],
+        
+        setProjection: function (element) {
+                var projection = d3.geo.azimuthalEqualArea()
+                    .scale(200)
+                    .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+                var path = d3.geo.path().projection(projection);
+                return { path: path, projection: projection };
+            },
         
     });
     gini.legend({
