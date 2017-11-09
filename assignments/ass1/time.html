@@ -6,9 +6,8 @@
 
 <body ng-app ng-controller='chartCtrl'>
  <div class='container'>
-    <input id='slider' type='range' min=1960 max=2010 ng-model='year' width=200>
+    <input id='slider' type='range' min=1958 max=2015 ng-model='year' width=500>
     <span ng-bind='year'></span>
-    <div id='chart_1' class='gChartDatamap'></div>  
   </div>
   
   <script>
@@ -30,299 +29,26 @@
             popupTemplate: function(geo, data) {
                 return ['<div class="hoverinfo"><strong>',
                         geo.properties.name + "<br>" +
-                        ' Gini: ' + data.gini + "<br>" + data.income +
+                        ' Gini: ' + data.gini + "<br>" + data.fillKey +
                         '</strong></div>'].join('');
             }},
         
         fills: {
-        'High Gini': '#CC4731',
-        'Low Gini': '#667FAF',
-        'Very Low Gini': "blue" ,
-        'Very High Gini': 'red',
-        "Mid Gini": '#EDDC4E',
+        'Very High Gini': '#993404',
+        'High Gini': '#d95f0e',
+        "Mid Gini": '#fe9929',
+        'Low Gini': '#fed98e',
+        'Very Low Gini': "#ffffd4" ,
+        "Missing Data": 'Black',
         defaultFill : "grey"
         },
         
-        data : { ARG: 
-   { income: 'High income: non-OECD',
-     gini: '54.4',
-     fillKey: 'High Gini' },
-  ARM: 
-   { income: 'Lower middle income',
-     gini: '35.9',
-     fillKey: 'Low Gini' },
-  AUS: { income: 'High income: OECD', gini: '31', fillKey: 'Low Gini' },
-  AUT: 
-   { income: 'High income: OECD',
-     gini: '24',
-     fillKey: 'Very Low Gini' },
-  BLR: 
-   { income: 'Upper middle income',
-     gini: '24.7',
-     fillKey: 'Very Low Gini' },
-  BEL: 
-   { income: 'High income: OECD',
-     gini: '30',
-     fillKey: 'Very Low Gini' },
-  BOL: 
-   { income: 'Lower middle income',
-     gini: '62.2',
-     fillKey: 'Very High Gini' },
-  BWA: 
-   { income: 'Upper middle income',
-     gini: '57.3',
-     fillKey: 'High Gini' },
-  BRA: 
-   { income: 'Upper middle income',
-     gini: '62.8',
-     fillKey: 'Very High Gini' },
-  BGR: 
-   { income: 'Upper middle income',
-     gini: '33.2',
-     fillKey: 'Low Gini' },
-  CAN: 
-   { income: 'High income: OECD',
-     gini: '30.1',
-     fillKey: 'Low Gini' },
-  CHL: 
-   { income: 'High income: OECD',
-     gini: '61.4',
-     fillKey: 'Very High Gini' },
-  CHN: 
-   { income: 'Upper middle income',
-     gini: '33',
-     fillKey: 'Low Gini' },
-  COL: 
-   { income: 'Upper middle income',
-     gini: '55',
-     fillKey: 'High Gini' },
-  CRI: 
-   { income: 'Upper middle income',
-     gini: '45.4',
-     fillKey: 'Mid Gini' },
-  HRV: 
-   { income: 'High income: non-OECD',
-     gini: '29',
-     fillKey: 'Very Low Gini' },
-  CYP: 
-   { income: 'High income: non-OECD',
-     gini: '27',
-     fillKey: 'Very Low Gini' },
-  CZE: 
-   { income: 'High income: OECD',
-     gini: '23.1',
-     fillKey: 'Very Low Gini' },
-  DNK: { income: 'High income: OECD', gini: '35', fillKey: 'Low Gini' },
-  DOM: 
-   { income: 'Upper middle income',
-     gini: '50.3',
-     fillKey: 'High Gini' },
-  ECU: 
-   { income: 'Upper middle income',
-     gini: '56.7',
-     fillKey: 'High Gini' },
-  SLV: 
-   { income: 'Lower middle income',
-     gini: '54.8',
-     fillKey: 'High Gini' },
-  EST: 
-   { income: 'High income: OECD',
-     gini: '36.3',
-     fillKey: 'Low Gini' },
-  FIN: 
-   { income: 'High income: OECD',
-     gini: '24',
-     fillKey: 'Very Low Gini' },
-  FRA: 
-   { income: 'High income: OECD',
-     gini: '28',
-     fillKey: 'Very Low Gini' },
-  GEO: 
-   { income: 'Lower middle income',
-     gini: '45.8',
-     fillKey: 'Mid Gini' },
-  DEU: 
-   { income: 'High income: OECD',
-     gini: '23.3',
-     fillKey: 'Very Low Gini' },
-  GRC: { income: 'High income: OECD', gini: '33', fillKey: 'Low Gini' },
-  GTM: 
-   { income: 'Lower middle income',
-     gini: '59.8',
-     fillKey: 'High Gini' },
-  HTI: { income: 'Low income', gini: '58.5', fillKey: 'High Gini' },
-  HND: 
-   { income: 'Lower middle income',
-     gini: '52.1',
-     fillKey: 'High Gini' },
-  HUN: 
-   { income: 'High income: OECD',
-     gini: '29.3',
-     fillKey: 'Very Low Gini' },
-  ISL: 
-   { income: 'High income: OECD',
-     gini: '24.1',
-     fillKey: 'Very Low Gini' },
-  IND: 
-   { income: 'Lower middle income',
-     gini: '49.1',
-     fillKey: 'Mid Gini' },
-  IRL: 
-   { income: 'High income: OECD',
-     gini: '30',
-     fillKey: 'Very Low Gini' },
-  ISR: 
-   { income: 'High income: OECD',
-     gini: '34.7',
-     fillKey: 'Low Gini' },
-  ITA: { income: 'High income: OECD', gini: '36', fillKey: 'Low Gini' },
-  JAM: 
-   { income: 'Upper middle income',
-     gini: '60.7',
-     fillKey: 'Very High Gini' },
-  JPN: 
-   { income: 'High income: OECD',
-     gini: '33.7',
-     fillKey: 'Low Gini' },
-  KOR: 
-   { income: 'High income: OECD',
-     gini: '31.2',
-     fillKey: 'Low Gini' },
-  KGZ: 
-   { income: 'Lower middle income',
-     gini: '41.4',
-     fillKey: 'Mid Gini' },
-  LVA: 
-   { income: 'High income: OECD',
-     gini: '32.7',
-     fillKey: 'Low Gini' },
-  LTU: 
-   { income: 'High income: non-OECD',
-     gini: '35.5',
-     fillKey: 'Low Gini' },
-  LUX: 
-   { income: 'High income: OECD',
-     gini: '26',
-     fillKey: 'Very Low Gini' },
-  MKD: 
-   { income: 'Upper middle income',
-     gini: '27.7',
-     fillKey: 'Very Low Gini' },
-  MLT: 
-   { income: 'High income: non-OECD',
-     gini: '30',
-     fillKey: 'Very Low Gini' },
-  MUS: 
-   { income: 'Upper middle income',
-     gini: '37.1',
-     fillKey: 'Low Gini' },
-  MEX: 
-   { income: 'Upper middle income',
-     gini: '54.2',
-     fillKey: 'High Gini' },
-  MDA: 
-   { income: 'Lower middle income',
-     gini: '43.7',
-     fillKey: 'Mid Gini' },
-  NLD: 
-   { income: 'High income: OECD',
-     gini: '32.5',
-     fillKey: 'Low Gini' },
-  NZL: 
-   { income: 'High income: OECD',
-     gini: '33.9',
-     fillKey: 'Low Gini' },
-  NIC: 
-   { income: 'Lower middle income',
-     gini: '57.9',
-     fillKey: 'High Gini' },
-  NOR: 
-   { income: 'High income: OECD',
-     gini: '26',
-     fillKey: 'Very Low Gini' },
-  PAN: 
-   { income: 'Upper middle income',
-     gini: '57',
-     fillKey: 'High Gini' },
-  PRY: 
-   { income: 'Upper middle income',
-     gini: '55.8',
-     fillKey: 'High Gini' },
-  PER: 
-   { income: 'Upper middle income',
-     gini: '48.6',
-     fillKey: 'Mid Gini' },
-  POL: 
-   { income: 'High income: OECD',
-     gini: '34.5',
-     fillKey: 'Low Gini' },
-  PRT: { income: 'High income: OECD', gini: '36', fillKey: 'Low Gini' },
-  ROU: 
-   { income: 'Upper middle income',
-     gini: '31',
-     fillKey: 'Low Gini' },
-  RUS: 
-   { income: 'High income: non-OECD',
-     gini: '42.1',
-     fillKey: 'Mid Gini' },
-  SRB: 
-   { income: 'Upper middle income',
-     gini: '40.3',
-     fillKey: 'Mid Gini' },
-  SVK: 
-   { income: 'High income: OECD',
-     gini: '26.4',
-     fillKey: 'Very Low Gini' },
-  SVN: 
-   { income: 'High income: OECD',
-     gini: '22.3',
-     fillKey: 'Very Low Gini' },
-  SOM: { income: 'Low income', gini: '39.7', fillKey: 'Low Gini' },
-  ZAF: 
-   { income: 'Upper middle income',
-     gini: '65.7',
-     fillKey: 'Very High Gini' },
-  ESP: { income: 'High income: OECD', gini: '32', fillKey: 'Low Gini' },
-  SWE: 
-   { income: 'High income: OECD',
-     gini: '25.7',
-     fillKey: 'Very Low Gini' },
-  CHE: 
-   { income: 'High income: OECD',
-     gini: '31.8',
-     fillKey: 'Low Gini' },
-  TWN: 
-   { income: 'High income: non-OECD',
-     gini: '28.9',
-     fillKey: 'Very Low Gini' },
-  TUR: 
-   { income: 'Upper middle income',
-     gini: '46',
-     fillKey: 'Mid Gini' },
-  UKR: 
-   { income: 'Lower middle income',
-     gini: '36.3',
-     fillKey: 'Low Gini' },
-  GBR: { income: 'High income: OECD', gini: '32', fillKey: 'Low Gini' },
-  USA: { income: 'High income: OECD', gini: '37', fillKey: 'Low Gini' },
-  URY: 
-   { income: 'High income: non-OECD',
-     gini: '44.7',
-     fillKey: 'Mid Gini' },
-  UZB: 
-   { income: 'Lower middle income',
-     gini: '47.2',
-     fillKey: 'Mid Gini' },
-  VEN: 
-   { income: 'High income: non-OECD',
-     gini: '44.2',
-     fillKey: 'Mid Gini' } }
-        
+        data : timeData["1960"] 
         
     });
     gini.legend({
     legendTitle : "1960-2015 World Gini Data",
-    defaultFillName: "No data",
+    defaultFillName: "Not in Dataset",
 })
 </script>
 </body>
