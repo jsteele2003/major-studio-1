@@ -1,0 +1,1508 @@
+Emerging facts on inequality and human development in Africa
+
+1
+
+SSA experienced more
+
+rapid growth in the
+Human Development
+Index between 2000 and
+2010, rising at an annual
+average of 1.68 per cent.
+
+2
+
+However, progress is
+
+uneven across countries
+and groups.
+
+4
+
+SSA countries reduced
+health inequality: close to
+50 percent reduced
+education inequality; and
+less than 40 per cent
+reduced income
+inequality.
+
+The loss of human potential due to
+inequality is higher in sub-Saharan
+Africa than in all other regions
+
+35
+30
+25
+
+19.4
+
+20
+15
+
+Between 2010 and 2014, more
+than 90 per cent of
+
+23.7
+
+28.7
+
+25.4
+
+33.3
+
+5
+
+6
+
+linked to complex mixes of
+
+discriminatory social
+norms (especially for
+women) and a skewed
+distribution of service
+provisions.
+
+Gender inequality and human
+development are inversely related
+
+Countries with a lower level of gender
+inequality
+tend to have higher levels of human
+development, while those with higher levels
+of gender inequality
+
+13.0
+
+Europe and East Asia and Latin America
+Central Asia the Pacific
+and the
+Caribbean
+
+inequalities
+in income, health and
+education outcomes is
+
+(e.g. Mauritius, Algeria and South Africa)
+
+10
+
+0
+
+5
+
+3
+
+The perpetuation of
+
+Arab
+States
+
+South Asia Sub-Saharan
+
+Tackling the root causes
+of gender inequality is a
+way to improving the lives
+of both women and men.
+
+Africa
+
+(e.g. Central African Republic, Chad and Niger)
+
+have lower levels of human development.
+
+7
+
+Investing in youth development,
+gender equality and
+women’s empowerment and
+building economic, social,
+political and environmental
+resilience are key to
+
+accelerating human
+development.
+
+244 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+11
+
+Inequality, Gender and Human
+Development in Africa
+
+SHANTANU MUKHERJEE, ANGELA LUSIGI, EUNICE KAMWENDO AND ASTRA BONINI
+
+11.1 Introduction
+Sub-Saharan Africa (SSA) has witnessed impressive progress on human development
+over the past 25 years. Indeed, using the Human Development Index (HDI) as a measure
+of development, since 2000, SSA has experienced more rapid growth than any other
+region, growing at 1.68 per cent from 2000 to 2010 and 0.94 per cent from 2010 to 2014
+(UNDP, 2015a). The rate of progress in some countries – for example, Rwanda, Ethiopia and
+Mozambique – has been particularly remarkable.
+At the same time, inequality has become a central challenge for the region as it has for all other
+regions of the world. Progress has been uneven between countries and various socioeconomic
+groups and serious human deprivation remains. Income inequality is an important element
+of inequality, but the trends capture only part of the story. The full realization of human
+potential for all people also requires attention to inequalities in access to non-income resources,
+including basic services such as health, education, political participation and access to property
+and financial resources. In addition, some groups systematically have less access to income
+and non-income resources than others. Women and girls in particular are, on average, more
+deprived than men across all countries in the region. Ensuring equal access to opportunities
+and services for women and girls would have significant positive implications for overall human
+development progress in SSA.
+This chapter employs the human development framework to examine the extent and nature of
+inequality in SSA. It draws attention to the complex and multidimensional nature of inequalities
+in the region, with a particular focus on gender inequalities, and points to policy interventions
+that may help to close gaps. Section 11.2 introduces the human development paradigm and
+presents an overview of inequality in key dimensions of human development. This section
+also identifies some of the drivers of inequality in these dimensions and interlinkages among
+inequalities in different dimensions, e.g. in education and income. Section 11.3 presents global
+and regional inequality trends using the Inequality-adjusted Human Development Index
+(IHDI). Section 11.4 explores inequality trends by subregions in Africa and identifies some
+key challenges for countries in the region related to gender inequality. Finally, Section 11.5
+draws upon the previous analysis to outline policy priorities to close gaps in inequality in SSA.
+
+Chapter 11 Inequality, Gender and Human Development in Africa / 245
+
+11.2 Linkages and drivers of inequality in income and human development
+11.2.1 The intersection of inequality in income and human development	
+The human development paradigm places people at the centre of development. From this perspective,
+“the objective of development is to create an enabling environment for people to enjoy long, healthy
+and creative lives” (UNDP, 1990). It involves expanding political freedoms and guaranteeing basic
+human rights. All people should be equipped with the knowledge and agency to make choices from
+a range of accessible alternatives so as to enhance their well-being at every stage of existence. In
+simple terms, human development is about enlarging people’s choices by improving their capabilities,
+expanding their opportunities and removing the social, cultural or political barriers that may work
+against them.
+Equity and universal opportunities for people, in this generation and in subsequent generations,
+to realize their full potential are central to the human development paradigm. Early Human
+Development Reports emphasised universalism and the need to aim for a world where “no child
+goes without an education, where no human being is denied healthcare and where all people can
+develop their potential capabilities” (UNDP, 1994). The reports also emphasise that all people should
+have the economic, social and political rights that allow them to make choices in line with their
+values and aspirations. The full realization of human potential for all people requires policy attention
+to inequalities in income and non-income resources, including basic services such as health and
+education, political participation and access to property and financial resources.
+Over the past 25 years, much progress has been made in many dimensions of human development:
+people are living longer, healthier and more creative lives; people are more knowledgeable and have
+access to resources needed to support a decent standard of living; more children are going to school;
+incomes are higher; and more people live under democratic regimes with greater potential for political
+engagement. In SSA, the number of children enrolled in primary education increased by 19 per cent
+from 1990 to 2015 and child mortality dropped from 178.5 deaths per thousand live births to 91.2
+over the same time period (UNDP, 2015a). Impressive progress in reducing poverty has been made
+in The Gambia (32 per cent reduction since 1990), Burkina Faso, Niger, Swaziland, Ethiopia, Uganda
+and Malawi (UNECA, 2015). And yet, in many cases, progress in the region is marked by high levels
+of inequality in health, education and income, and in the urgency required to influence change. Gains
+have not been universal and many people still suffer deprivations in basic elements of life.
+There are significant differences in the human development of women and men as measured by the
+HDI. This is the case even though women in the region have a longer life expectancy than men.
+Much of the variation is due to women’s incomes falling far short of men’s and the levels of education
+of adult women falling below adult men’s. In 2014, average per capita gross national income (PPP)
+for women in the region was US$2,626 compared to US$4,148 for men (UNDP, 2015a). This is
+despite a relatively high labour force participation rate among women in SSA (65.4 per cent) relative
+to other regions. Part of the variation in the incomes of men and women is related to the nature of
+the work that women do. They typically carry a disproportionate burden of the unpaid care work that
+is performed in the home. And even when they have paid work, they are more likely than men to be
+in vulnerable and informal jobs.
+Those living in poverty at the bottom of income distributions, many of whom are women and girls,
+and are often deprived in many other dimensions of human development, with implications for
+246 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+socio-economic mobility. Across all regions, children in the lowest wealth quintile are more likely to
+die before their fifth birthday than children in the wealthiest quintile. In SSA, child mortality rates
+are about 67 per cent higher for the lowest quintile. These children are also almost twice as likely to
+suffer stunting from chronic malnutrition (UNDP, 2013a). Similar gaps can be observed in education
+outcomes. Children whose families are in the highest wealth quintile in the region are 60 per cent
+more likely to complete primary school than children from the poorest quintile. Girls are even less
+likely than boys to complete primary school (ibid.).
+Health and education deprivation is higher in rural areas than in urban areas. In SSA, 77 per cent of
+women in urban areas have access to maternal health care compared to only 38 per cent of women
+living in rural areas. Globally, nearly half of people living in rural areas lack access to improved
+sanitation facilities, whereas only 18 per cent of people in urban areas are without improved sanitation.
+Children from rural areas are also less likely to be in school; worldwide, twice as many rural children
+are out of school than in urban areas (UN, 2015). At the same time, levels of inequality in income
+and in access to services, infrastructure and opportunities are higher in urban areas. Slum populations,
+which make up 63 per cent of the urban population in the region, are deprived of many basic services
+and opportunities (UN Habitat, 2013).
+There are also inequalities in access to information and technology, which are key tools for empowering
+people to expand their capabilities. In Africa, only one in every five people has access to the Internet
+(ITU, 2015). Women disproportionately lack access in developing countries, where 16 per cent fewer
+women than men use the Internet (ITU, 2013). This digital divide can perpetuate inequalities in
+access to jobs and education and, in some cases, even limit opportunities for political participation.
+Overcoming income inequalities and empowering women to participate in the labour market and
+secure quality work is one way of ensuring that all people have opportunities to achieve their full
+potential in life. However, from a human development perspective, there are many other inequalities
+that deserve policy attention. For instance, more equitable access to health and education services and
+information, and equal rights to participate in political decisions can significantly enlarge people’s
+choices, particularly the most disadvantaged – women, the poor and those in rural areas.
+
+11.2.2 Income inequality and sustainable human development
+Income inequality can reinforce inequalities in health and education as well as work, political
+participation and security. These overlapping inequalities perpetuate exclusion and deprivations
+throughout the life course and across generations. As indicated in the section above, the poorest
+quintiles of the population are often the most deprived in access to healthcare and education.
+Access to quality health services is often limited for those living in poverty. Disparities in access to
+healthcare across income groups can result in disparities in health outcomes across these groups. For
+example, in Zambia, the poor are less likely to access public hospitals due to financial and physical
+barriers, despite showing higher need than other income groups. They are also more likely to use
+primary facilities such as health clinics, which have fewer resources (Phiri and Ataguba, 2014). In
+South Africa, HIV prevalence is found to be higher among those in the poorest socioeconomic
+groups. This may be due in part to access to information and access to HIV/AIDS testing. In one
+study, only 20.5 per cent of the poor reported having access to information on HIV/AIDS compared
+to 79.5 per cent of people from higher socioeconomic groups (Wabiri and Taffa, 2013). People who
+live in poor communities also have a higher risk of dying from non-communicable diseases such
+Chapter 11 Inequality, Gender and Human Development in Africa / 247
+
+as lung cancer, diabetes and cardiovascular illnesses. This is due to a combination of inequalities
+in risk and in access to healthcare for timely diagnosis and treatment, both of which are linked to
+socioeconomic levels (Di Cesare et al., 2013).
+Similar patterns are observed in access to education where the poor are disproportionately deprived,
+particularly beyond the primary and secondary levels. In Ghana, for example, positive correlations are
+found between poverty incidence and education inequalities, with additional deprivation experienced
+by girls and those living in rural areas (Senadza, 2012). This is also the case in many other countries
+in the region. A recent study by the Brookings Center for Universal Education’s Africa Learning
+Barometer finds that individuals who are poor, female and attending school in rural communities in
+the region are far less likely to be learning critical skills such as reading, writing and mathematics. The
+study finds that people in extreme education poverty (less than two years of schooling) are much less
+likely to learn (see figure 11.1) (Agbor, 2012). Disadvantages in opportunities for education, as with
+healthcare, are linked to poverty and also to lower levels of access for girls and women and people
+living in rural areas.
+Income inequalities, as well as inequalities between men and women and those in rural and urban
+areas, are reinforced across generations because deprivation in access to quality education and
+healthcare limits opportunities for secure livelihoods. Indeed, studies in a number of countries
+have found that parents’ educational attainment and earnings are two of the strongest predictors of
+children’s educational attainment (Duncan and Murnane, 2011). In a world where advanced skills are
+FIGURE 11.1 Education disparities between rich and poor in sub-Saharan Africa, 2010
+Years of education
+
+10 years
+
+Richest 20%
+
+Poorest 20%
+
+Nat’l average
+
+Source: Van Fleet, Watkins and Greubel (2012).
+Note: Nat’l = National and Congo = Republic of the Congo.
+
+248 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+Zambia
+
+Zimbabwe
+
+Uganda
+
+Tanzania
+
+Senegal
+
+Swaziland
+
+Nigeria
+
+Namibia
+
+Malawi
+
+Mozambique
+
+Madagascar
+
+Kenya
+
+Lesotho
+
+Côte d’Ivoire
+
+Ghana
+
+Gabon
+
+Ethiopia
+
+Chad
+
+Congo (Rep.)
+
+Cameroon
+
+Burundi
+
+Burkina Faso
+
+Benin
+
+0
+
+increasingly central to work across sectors and in all regions, these inequalities in education translate
+into future inequalities in earnings (Autor, 2014). In South Africa, fathers pass on three-fifths of their
+earnings advantage to sons, much of which is linked to the former’s level of education (Piraino, 2015).
+In Senegal, parents’ education is also positively associated with the living standards of their adult
+children and maternal education has a much larger positive effect than paternal education (Lambert,
+Ravallion and Van de Walle, 2014).
+In highly unequal societies, intergenerational mobility is limited. Parents’ levels of education, income
+and health can greatly affect the opportunities available to their children unless policy interventions
+are made to increase opportunities for mobility. This is particularly important for girls and people
+living in rural areas, where low levels of access to quality education and healthcare are felt most
+significantly. In this regard, the human development of future generations will depend on policy
+actions taken today against the multiple dimensions of inequality.
+
+11.2.3 Drivers of inequality in human development
+Perpetuation of inequalities in income, health and education outcomes is linked to complex mixes of
+discriminatory social norms and patterns of service provision, combined with exposure to conflict in
+some cases, among other reasons. High levels of poverty and inequality combined with asymmetries
+in access to health and education services are problematic. Today, many countries in SSA still feel the
+effects of cost-cutting measures in education and health services that were implemented in the 1980s
+and 1990s. This is especially the case in rural areas where cuts were the greatest and for girls, who
+often forgo education when families cannot afford to send all of their children to school (Ombati
+and Mokua, 2012). Expenditures on health and education services often disproportionately reach
+wealthier populations. This is the case in Ghana, United Republic of Tanzania and South Africa,
+where health services are directed toward rich populations even while the burden of illness is much
+greater for low-income populations (Mills et al., 2012). There is some evidence that democratic
+engagement may help direct government policies and expenditures toward improving health and
+education outcomes. There is a strong correlation between the 2015 Economist Democracy Index
+and HDI (0.60), indicating that when citizens have a greater say in decisions that affect them, overall
+human development status is strengthened.
+Studies have found that one of the single greatest potential equalisers in the region is increased access
+to education, including access to technical, vocational and entrepreneurial education that increases
+skills and employability (Anyanwu, Erhijakpor and Obi, 2016). Universal quality education and
+health systems are essential. Access to public education is unlikely to reduce inequalities if teachers
+are poorly trained, class sizes are large and resources are limited. In this instance, the children of
+wealthy individuals are likely to go to private schools, obtaining higher-quality schooling than those
+in the public system and maintaining inequalities. For example, in Kenya, after the introduction of
+the Free Primary Education (FPE) programme in 2003, the proportion of children attending private
+primary schools increased by 7 percentage points by 2007 as parents reacted to the quality of public
+education (Nishimura and Yamano, 2013).
+Social norms and traditions can also drive inequality by limiting opportunities for women and
+minorities. For example, traditions dictating that women and girls carry a disproportionate burden
+of unpaid work in the home limit their opportunities relative to men and boys (UNDP, 2015a).
+According to time-use surveys in developing countries, traditional work divisions leave women
+responsible for more than three-quarters of the time their household dedicates to unpaid care work.
+Chapter 11 Inequality, Gender and Human Development in Africa / 249
+
+In Mali, men spend 21 minutes per day doing unpaid work while women spend 241 minutes per
+day in unpaid work. As such, women in Mali perform over ten times more unpaid work than men,
+while men only do 42 per cent more paid work than women (ibid.). Women’s unequal contributions
+to unpaid work reduce time available for education and activities that increase their preparation for
+the job market and also limit the time they can commit to paid work. Women are also limited in
+access to healthcare because of norms that reduce their decision-making authority in communities
+and households. In Tanzania, Ghana and Uganda, surveys indicate that women are less likely to use
+maternal health services when they live in areas that are relatively tolerant of violence against women
+(Adjiwanou and LeGrand, 2014). Additionally, when traditional norms encourage early marriage
+and childbearing, girls leave school at a young age and miss out on opportunities to expand their
+education and gain skills that would empower them to consider different livelihoods.
+Conflict remains a barrier to overcoming inequalities for many communities and countries, although
+the number of countries in conflict in SSA has declined over the past 15 years. When individuals
+live in fear of violence (either real or perceived), their abilities to make choices freely and access
+opportunities are diminished. People may be afraid to leave their homes or communities, which limits
+work, access to health services and schooling. When parents fear for the physical and sexual safety of
+daughters, they are likely to keep them out of school (Pinheiro, 2006). Violence can magnify existing
+inequalities within societies when certain groups are the targets of violence. Women and sexual, ethnic
+and religious minorities, for example, are more likely to be threatened by violence, real or perceived,
+which disproportionately constrains their opportunities (Stewart, 2008). In areas affected by conflict,
+deficiencies in access to services and livelihoods can have lasting effects, stifling human potential
+relative to those areas that are free of conflict. The result can be geographical inequalities in outcomes
+across many dimensions of human development. Targeted action for populations affected by conflict
+may help reduce these disparities and reinforce movements toward peace and social cohesion.
+
+11.3 Measuring inequality in human development
+11.3.1 The Inequality-adjusted Human Development Index
+Recognizing inequality as a central policy challenge for sustainable human development, the 2010
+UNDP Human Development Report (HDR) introduced a new index for monitoring levels of
+inequality across dimensions of human development. The Inequality-adjusted HDI (IHDI) is a
+composite index that accounts for inequality in the three dimensions of the HDI – the ability to
+live a long and healthy life, access to knowledge and a decent standard of living. The IHDI accounts
+for inequalities in HDI dimensions by ‘discounting’ each dimension’s average value according to
+its level of inequality. Under perfect equality, the HDI and the IHDI are equal. If distribution of
+income, health and/or education is unequal, the IHDI is lower than the HDI. The higher the level
+of inequality in a society, the greater the difference becomes between the HDI and the IHDI. In this
+sense, the IHDI gives an indication of the actual level of human development (taking into account
+inequality), while the HDI reflects the ‘potential’ human development that could be achieved if there
+were no inequality. Loss in potential human development due to inequality is the difference between
+the HDI and the IHDI and is expressed as a percentage.
+The IHDI is calculated using the following indicators and sources of data:1
+See Human Development Report Technical Notes for further details (UNDP, 2015b).
+
+1
+
+250 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+• Distribution of health is calculated based on differences in life expectancy using data from the
+abridged life tables of the United Nations Department of Economic and Social Affairs (UN
+DESA).
+
+• Distribution of education is calculated based on differences in mean years of schooling using data
+from various household surveys.
+
+• Distribution of income is calculated based on differences in disposable household income or
+consumption per capita using data from various household surveys.
+
+Data in each of these dimensions are used to calculate an Atkinson index on inequality.2 Atkinson
+measures for each dimension are then used to adjust the respective HDI dimensions for inequality.
+These adjusted dimensions are then aggregated using a geometric mean to produce the IHDI (Alkire
+and Foster, 2010; Foster, Lopez-Calva and Szekely, 2005:1).
+
+11.3.2 Mapping the status of inequality in human development across regions
+The IHDI is a powerful tool for inequality analysis that reveals trends and patterns that can guide
+policy-making. The IHDI indicates that inequality is one of the main drags on human development
+progress, resulting in an overall loss at the global level of 22.8 per cent of human development potential.
+The ranking of some of the leading countries in the Human Development Index drops significantly
+when inequality is taken into account: the United States (about 20 positions); the Republic of Korea
+(about 19 positions); and Chile (about 13 positions) in 2014. For developing countries, loss in HDI
+due to inequality is 25.7 per cent. The loss is highest in low human development countries, indicating
+that not only are levels of human development low, but they are also extremely unequal (see table 11.1).
+TABLE 11.1 Loss in human development due to inequality, by level of development		
+	 Human development group	
+
+Loss in HDI due to inequality adjustment (%)
+
+Very high human development	
+
+12.1
+
+High human development	
+
+19.4
+
+Medium human development	
+
+25.8
+
+Low human development	
+
+32.0
+
+Source: UNDP (2015a, 2015b).
+
+In SSA, loss of human potential due to inequality is 33 per cent. In South Asia and the Arab States,
+it is over 25 per cent (see figure 11.2). In four countries – the Central African Republic, Comoros,
+Namibia and Sierra Leone – the IHDI is more than 40 per cent lower than the HDI. In 35 other
+countries, it is 30-40 per cent lower.
+Today, public concern over inequality is focused mostly on income, but the IHDI shows that globally,
+based on the Atkinson inequality index, inequalities in education are highest, with 27 per cent,
+followed by income at 24 per cent and health at 17 per cent. Inequalities in education are the most
+extreme in South Asia (42 per cent), the Arab states (39 per cent) and SSA (35 per cent). Inequalities
+in education garner less attention than inequalities in income, but are perhaps even more worrisome
+2
+
+The IHDI draws on the Atkinson (1970) family of inequality measures and sets the aversion parameter equal to 1.1 The inequality measure is A = 1 – g/µ,
+where g is the geometric mean and µ is the arithmetic mean of the distribution.
+
+Chapter 11 Inequality, Gender and Human Development in Africa / 251
+
+FIGURE 11.2 Overall loss of HDI (%) due to inequalities
+
+33.3
+
+35
+28.7
+
+30
+
+19.4
+
+20
+15
+
+25.4
+
+23.7
+
+25
+
+13.0
+
+10
+5
+0
+
+Europe and
+Central Asia
+
+East Asia and
+the Pacific
+
+Latin America
+and the
+Caribbean
+
+Arab States
+
+South Asia
+
+Sub-Saharan
+Africa
+
+Source: UNDP (2015a).
+
+from a long-term development perspective, as previously discussed. Health inequalities are highest in
+SSA, at 37 per cent, followed by South Asia, at 24 per cent. Income inequalities are highest in Latin
+America and the Caribbean, at 35 per cent, followed by East Asia and the Pacific and SSA, at 27 per
+cent. This is similar to the income Gini coefficients, which are also highest for Latin America and the
+Caribbean (World Bank, 2015).
+Patterns of change in recent years indicate some promise for the future if efforts to reduce inequalities
+are stepped up. As measured by the IHDI, inequality in human development has declined slightly in
+most regions since 2010, except for SSA where it has not changed. Declines have been driven mainly
+by reductions in health inequality in all regions, whereas inequality in years of schooling has remained
+mostly constant and inequality in income has risen in several regions, including SSA and South Asia.
+But there have also been declines in income inequality in some countries in Latin America and the
+Caribbean, Europe and Central Asia.
+Regional trends that are revealed with the IHDI still mask much variation across countries within
+regions in terms of levels of inequality and directions of change. In SSA, for example, figures 11.3 to
+11.5 show Atkinson inequality measures for each of the HDI dimensions by country for 2010 and
+2014.3 Countries falling above the 45 degree line have shown increasing levels of inequality, while those
+falling below the line show declining levels of inequality. Almost all countries have lower levels of health
+inequality with the exception of Sierra Leone, Comoros and Togo. Changes in education and income
+inequalities are fluctuating, with some countries making great strides to reduce inequalities and others
+experiencing increased inequality levels. Mozambique and Ethiopia have seen steep drops in income
+inequality, while Swaziland and Cabo Verde have moved toward greater equity in education.
+Measures of inequality may be from surveys for years earlier than the year listed.
+
+3
+
+252 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+FIGURE 11.3 Change in health inequality 2010-2014, SSA
+60.0
+Sierra Leone
+
+2014 Atkinson measure
+
+50.0
+
+40.0
+
+Togo
+Comoros
+
+30.0
+
+Rwanda
+
+20.0
+
+10.0
+
+0.0
+0.0
+
+10.0
+
+20.0
+
+30.0
+
+40.0
+
+50.0
+
+60.0
+
+2010 Atkinson measure
+
+Source: Authors’ calculation based on UNDP (2015a) data.
+
+FIGURE 11.4 Change in education inequality 2010-2014, SSA
+60.0
+
+2014 Atkinson measure
+
+50.0
+
+40.0
+Ghana
+
+Central African
+Republic
+
+30.0
+Swaziland
+Gabon
+
+20.0
+
+Cabo
+Verde
+
+10.0
+
+0.0
+0.0
+
+10.0
+
+20.0
+
+30.0
+
+40.0
+
+50.0
+
+60.0
+
+2010 Atkinson measure
+
+Source: Authors’ calculation based on UNDP (2015a) data.
+
+Chapter 11 Inequality, Gender and Human Development in Africa / 253
+
+FIGURE 11.5 Change in income inequality 2010-2014, SSA
+
+60.0
+
+South Africa
+
+50.0
+
+Central African
+Republic
+
+2014 Atkinson measure
+
+Zambia
+
+40.0
+
+30.0
+
+Mozambique
+
+20.0
+
+10.0
+
+Ethiopia
+
+0.0
+0.0
+
+10.0
+
+20.0
+
+30.0
+
+40.0
+
+50.0
+
+60.0
+
+2010 Atkinson measure
+
+Source: Authors’ calculation based on UNDP (2015a) data.
+
+The following sections provide more details on the degrees of multidimensional inequality in the
+region and point to some policy options for the future to move toward a more equitable distribution
+of opportunities and human potential.
+
+11.4 Exploring trends in human development and income inequality
+11.4.1 Trends in human development by subregion and human development grouping
+Starting from a low base in 1990, SSA has made significant strides in human development. From
+1990 to 2014, SSA was the third-fastest improving region in terms of human development, behind
+South and East Asia. In 1990, the level of human development in SSA was 62 per cent lower than
+the highest performing region, which was Europe and Central Asia. By 2014, this gap had shrunk to
+45 per cent, behind HDI levels in Europe and Central Asia, and Latin America and the Caribbean,
+which are the two best performing regions. The latest HDI reveals that 17 African countries across
+all subregions have now achieved medium and high human development status (UNDP, 2015).
+Yet, the majority of countries remain in the low human development category, which has negative
+implications for the well-being of present and future generations. Three out of every four Africans
+live in a country with poor foundations for human development, while globally, one in every five
+individuals lives in a low human development country (UNDP, 2015). Africa is a youthful continent,
+with over 50 per cent of the population under the age of 18.5 years and 19 per cent of the population
+254 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+TABLE 11.2 African countries by region and level of human development
+		
+	Region	
+
+Low Human 	
+Development	
+
+Central	
+Cameroon	
+	
+Central African Republic 	
+	Chad	
+	
+Congo (Dem. Rep.)
+	Madagascar	
+
+Medium Human	
+Development	
+
+High Human	
+Development	
+
+Congo (Rep.)		
+Equatorial Guinea		
+Gabon
+
+Fastest Improving
+(2000-2014)	
+Congo (Dem. Rep.)
+Congo (Rep.)	
+
+East	 Burundi		
+Seychelles	Burundi
+	Comoros			
+Djibouti
+	Djibouti			
+Ethiopia
+	
+Eritrea 			
+Kenya
+	Ethiopia			
+Rwanda
+	
+Kenya			
+Tanzania (United Rep.)
+	Rwanda
+	
+South Sudan
+	Sudan
+	Uganda
+	
+Tanzania (United Rep.) 	
+		
+North	Mauritania	
+Egypt	
+		
+Morocco	
+			
+
+Algeria
+Libya
+Tunisia	
+
+Southern	Angola	
+Botswana	
+Mauritius	
+	Lesotho	
+Namibia		
+	
+Malawi	
+Sao Tome and Principe		
+	
+Mozambique	
+South Africa		
+	Swaziland	
+Zambia		
+	Zimbabwe			
+
+Angola
+Botswana
+Malawi
+Mozambique
+Zambia
+Zimbabwe
+
+West	Benin	
+Cabo Verde		
+Burkina Faso
+	
+Burkina Faso	
+Ghana		Guinea
+	
+Côte d’Ivoire			
+Liberia
+	
+The Gambia			
+Mali
+	Guinea			
+Niger
+	Guinea-Bissau			
+Sierra Leone
+	Liberia
+	Mali
+	Niger
+	Nigeria
+	Senegal
+	
+Sierra Leone
+	Togo
+Source: UNDP (2015a).
+
+Chapter 11 Inequality, Gender and Human Development in Africa / 255
+
+between the ages of 15 and 24 years (UN DESA, 2015). This deficit in terms of human development,
+therefore, has tremendous short- and long-term implications for inclusive growth and development.
+Recent improvements in human development are the result of improvements in income as well as
+non-income dimensions of human development. African countries making the fastest improvement
+in human development have enhanced both their income and non-income dimensions of human
+development. A review of the annual change in income and non-income dimensions of human
+development in the top 20 African countries from 2005 to 2012 shows that 60 per cent of the
+countries had improvements in both income and non-income dimensions. The remaining 35 per cent
+had more improvement in non-income dimensions, while only 5 per cent had improvements mainly
+in income dimensions (UNDP, 2013b).
+It is important to note that African countries with low human development are catching up fast.
+African low human development countries are improving their levels of human development faster
+than high human development African countries. Countries making the fastest progress since 2000
+include Angola, Burundi, Botswana, Burkina Faso, Democratic Republic of the Congo, Ethiopia,
+Guinea, Kenya, Liberia, Malawi, Mali, Mozambique, Niger, Republic of the Congo, Sierra Leone,
+United Republic of Tanzania, Rwanda, Zambia and Zimbabwe. Together, these countries represent
+a significant proportion of Africa’s population. They also represent a mix of natural resource-rich
+countries as well as those that are more diversified. This indicates the importance of effective use of
+available resources, beyond resource abundance, in promoting human development. In addition, there
+seems to be a peace dividend, as countries coming out of conflict recover lost ground.
+The global Multidimensional Poverty Index (MPI), which examines both incidence and intensity
+of poverty in three dimensions – health, education and living standards – shows a similar picture to
+that of the HDI in terms of Africa’s progress in reducing poverty. A key finding of the Global MPI
+(2016) is that for the 35 African countries where changes to poverty over time were analysed, 30
+have reduced poverty significantly. Rwanda had the fastest reduction in MPI, followed by Ghana,
+Liberia, Comoros and the Democratic Republic of the Congo. In addition, every MPI indicator was
+significantly reduced in Burkina Faso, Comoros, Gabon, Mozambique and Rwanda. Some countries,
+such as Gabon, Ghana, The Gambia, Liberia, Mozambique, Malawi, Niger and Rwanda, managed to
+reduce poverty in every region, indicating equitable progress in poverty reduction (Alkire et al., 2016).
+However, the rate of change in human development has slowed since 2010. Therefore, although the
+gap between low and high human development African countries is closing, this growth needs to be
+sustained. The growth slowdown is a clear concern, as at least 17 African countries remain in the low
+human development category. In some instances, this disruption was caused by insecurity, as in the
+case of the Central African Republic and South Sudan. The impact of the global financial crisis on
+levels of foreign direct investment in the economies most integrated in the global financial market
+is also evident mainly for ‘high human development’ countries in North Africa. Finally, commodity
+price volatility also played a role in reducing income growth in natural resource- and agricultural
+commodity-dependent countries such as Botswana, Equatorial Guinea, Mozambique and Uganda.
+This slowdown in the rate of improvement of human development is not uniform across the subregions. In the 1990s, East and North Africa had the fastest improvement in human development.
+This shifted to East and West Africa from 2000 and in West and Southern Africa starting in 2010.
+While there is a pattern in slowing improvement in human development across all subregions,
+Southern, Central and West Africa experienced the smallest reductions, from 30 to 40 per cent. The
+256 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+FIGURE 11.6 Trends in average annual change in HDI level in African countries, by development group
+
+2.0
+1.8
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+
+1.8
+
+1.2
+
+1.2
+
+1.0
+0.8
+
+0.9
+
+0.8
+
+1.0
+
+1.0
+0.7
+
+0.4
+0.2
+High human development
+
+Medium human
+development
+1990-2000
+
+Low human development
+2000-2010
+
+Developing countries
+
+2010-2014
+
+Source: Authors’ calculation based on UNDP (2015a) data.
+
+FIGURE 11.7 Human development change, by subregion
+
+Average annual HDI growth (%)
+
+2.5
+
+2.2
+
+2.0
+1.5
+1.0
+
+1.7
+1.3
+
+0.0
+-0.5
+
+1.2
+
+1.0
+
+0.5
+
+1.3
+
+1.2
+
+1.0
+
+0.9
+
+0.7
+
+1.5
+1.0
+0.3
+
+0.2
+North
+
+Central
+
+East
+
+West
+
+Southern
+
+-0.3
+1990-2000
+
+2000-2010
+
+2010-2014
+
+Source: Authors’ calculation based on UNDP (2015) data.
+
+rate of improvement fell more sharply in East Africa with a reduction of 60 per cent, mainly due to
+a slowdown in Burundi, Tanzania and Uganda. However, despite the general slowdown, a number
+of countries continued on an upward trajectory in improving their levels of human development,
+including Gabon, Lesotho, Seychelles, South Africa and Togo.
+
+Chapter 11 Inequality, Gender and Human Development in Africa / 257
+
+Countries making the fastest progress also tend to have low inequality; countries with lower inequality
+in human development indicators grew faster on average than those with higher levels of inequality.
+For instance, Ethiopia, Rwanda, Burundi and Mozambique grew faster than Benin, Botswana and
+the Democratic Republic of the Congo. The latter have higher levels of inequality in education,
+health and income distribution across the population. This is indicated by a higher overall loss in
+human development, shown by a large difference between the HDI and the Inequality-adjusted
+HDI, expressed as a percentage.
+FIGURE 11.8 HDI change against HDI loss from inequality
+
+43.0
+
+Sierra Leone
+
+HDI loss from inequality (%)
+
+41.0
+39.0
+
+Botswana
+Benin
+Guinea
+Congo (Dem. Rep.)
+
+37.0
+35.0
+
+Senegal
+
+33.0
+
+Zambia
+
+Malawi
+
+31.0
+
+Uganda
+
+29.0
+
+Mozambique
+
+Burundi
+
+Rwanda
+Ethiopia
+
+Niger
+Tanzania
+
+27.0
+25.0
+
+Djibouti
+
+Angola
+Mali
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+Average annual HDI change: 2000-2010
+Source: UNDP (2015a).
+
+11.4.2 Trends in inequality by subregion and human development grouping
+High human development countries seem to be associated with lower levels of overall HDI inequality.
+As previously mentioned, SSA countries have the highest losses in terms of human development
+when distribution of outcomes across the population is taken into account. However, in general, lower
+human development African countries face higher levels of inequality than medium and high human
+development African countries.
+Yet, when dimensions of inequality in human development are considered, each human development
+group experiences a distinct driver of inequality. For instance, the importance of education inequality
+relative to income and health inequality is higher in high human development countries. In low
+human development countries, inequality in education and health contributes relatively more to
+overall inequality in HDI than inequality in income. In medium human development countries, the
+impact of income inequality overrides education and health inequalities.
+In addition to inequality across the population, all African countries struggle with some form of gender
+inequality. Overall, high human development countries have lower gender gaps in terms of women’s
+258 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+FIGURE 11.9 Overall loss due to inequality, by human development group
+
+All
+Low human development
+Medium human development
+High human development
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Overall loss in human development from inequality (%)
+Source: Authors’ calculation based on UNDP (2015a) data.
+
+FIGURE 11.10 Dimensions of inequality in human development, by human development group
+Coefficient of human
+inequality
+
+40
+30
+20
+High human development
+
+10
+Inequality in income
+
+0
+
+Inequality in life
+expectancy
+
+Low human development
+Medium human development
+All human development
+
+Inequality in education
+Source: Authors’ calculation based on UNDP (2015a) data.
+
+health, empowerment and economic activity, compared to low human development countries, as
+captured by UNDP’s Gender Inequality Index (GII). The GII reflects gender-based inequalities in
+three dimensions: reproductive health, measured by maternal mortality and adolescent birth rates;
+empowerment, measured by the share of parliamentary seats held by women and attainment in
+secondary and higher education by each gender; and economic activity, measured by labour market
+Chapter 11 Inequality, Gender and Human Development in Africa / 259
+
+participation rates for women and men. The GII can be interpreted as the loss in human development
+due to inequality between female and male achievements in the three GII dimensions.
+However, relatively lower levels of gender inequality in high human development African countries
+mask significant economic gaps related to women’s participation in the labour forces. For instance,
+many countries in North Africa face challenges in ensuring economic empowerment through women’s
+participation in the labour force. By contrast, low human development countries have more women in
+the workforce but high inequality in health and education outcomes. This may have an impact on the
+effectiveness of women’s participation in the labour force as they are overrepresented in the informal
+sector and in vulnerable employment. Gender inequality in the labour market results in lost benefits
+at individual, household and society levels. It is estimated that Africa faces significant economic losses
+annually due to gender gaps in labour force participation of up to US$95 billion annually for SSA
+(Bandara, 2015).
+Another persistent gender gap across most African countries is in political dimensions. A wide
+gap remains in women’s and men’s political representation, and in leadership, despite significant
+progress in some countries. For instance, Rwanda, Senegal, Seychelles, Mozambique and Zimbabwe
+have shown tremendous improvement, with 40 to 50 per cent representation of women in single
+or combined national parliaments (IPU, 2016). This goes well beyond the minimum one-third in
+most national constitutions. However, there is a wide gap in African country performance, with 37
+African countries at a lower level of representation than the SSA average of 23 per cent. In at least
+10 countries, the level of representation is below 10 per cent, with the lowest in Central African
+Republic, the Democratic Republic of the Congo, Comoros, Nigeria and Swaziland (IPU, 2016).
+Disparities related to income and sex are compounded by inequality due to geographic location
+and age. At present, the majority of young Africans live in poverty and work at an early age rather
+than further their education. It is estimated that up to 17 per cent of Africa’s 15-17 year olds are
+working and out of school, compared to 15 per cent in Asia and the Pacific and only 2.2 per cent in
+Eastern Europe and Central Asia (ILO, 2015). Youth aged between 15 and 24 years who are working,
+including those in urban areas, are more likely to live in poverty. While globally, two-thirds of youth
+can be categorized as working poor, in SSA, nine out of ten working youth are poor or near poor
+(ILO, 2015). The highest proportion of working poor youth are found in South Asia (94 per cent),
+followed by SSA (93 per cent) and South East Asia and the Pacific (67 per cent). These rates are
+likely a reflection of the higher proportion of youth still in school in these regions, rather than in the
+workforce.
+
+11.4.3 Gender inequality and human development
+As discussed in preceding sections, the underlying drivers of inequality in human capabilities include
+unequal participation in political and economic life; unequal access to economic, financial and natural
+resources; lack of human security and rights; and inequitable outcomes and opportunities for women
+and men. Inequitable distribution of national resources, differences in power to influence decisionmaking and existing discriminatory social institutions and norms, especially gender inequality, also
+act as key transmission channels for inequality in African countries.
+There is a negative relationship between human development and gender inequality in Africa, as
+demonstrated in figure 11.11, which maps the level of human development against the level of
+gender inequality. Countries with overall low levels of gender inequality, such as Libya, Tunisia and
+260 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+FIGURE 11.11 Human development and gender inequality in Africa
+
+0.90
+
+HIGH human development
+HIGH gender inequality
+
+HIGH human development
+LOW gender inequality
+
+Human Development Index
+
+0.80
+
+Mauritius
+
+Libya
+
+0.70
+
+Algeria
+
+Tunisia
+
+Botswana
+Egypt
+
+South Africa
+Namibia
+
+0.60
+
+Morocco
+Ghana
+
+Congo (Rep.)
+
+Zambia
+Kenya
+Cameroon
+Swaziland
+Tanzania
+Zimbabwe
+Lesotho Togo Mauritania
+Uganda
+Rwanda
+Benin
+Sudan
+Senegal
+Malawi
+Côte d’Ivoire
+Gambia
+Ethiopia
+Congo (Dem. Rep.)
+Mozambique
+Mali
+Burkina Faso
+Sierra
+Chad
+Burundi
+Leone
+
+0.50
+
+0.40
+
+0.30
+
+Gabon
+
+CAR
+
+LOW human development
+LOW gender inequality
+
+0.10
+
+0.20
+
+Niger
+
+LOW human development
+HIGH gender inequality
+
+0.30
+
+0.40
+
+0.50
+
+0.60
+
+0.70
+
+0.80
+
+Gender Inequality Index
+Source: UNDP (2015a).
+Note: Congo = Congo (Rep.), DRC = Congo (Dem. Rep.) and CAR = Central African Republic.
+
+Mauritius, tend to have higher levels of human development. By contrast, countries such as Niger,
+Chad, Central African Republic, Mali and the Democratic Republic of the Congo, with higher levels
+of gender inequality, also tend to have lower levels of human development.
+African countries have responded to gender inequality by putting in place legislative frameworks and
+institutions at regional, subregional and national levels, and targeted programmes to reduce gaps in
+education and health, as well as providing dedicated resources, yet this problem persists. In view of
+the persistent nature of gender inequality in Africa, it is useful to examine the root causes to inform
+a more effective response. The Africa Human Development Report 2016 (UNDP, 2016) explores the
+policy agenda and actions needed to accelerate gender equality and women’s empowerment in Africa.
+One of the key findings is that social institutions and norms play a critical role in perpetuating gender
+inequality. For instance, there is ample evidence that countries with high gender inequality and the
+presence of discriminatory social institutions, as illustrated in UNDP’s Gender Inequality Index and
+OECD’s Social Institutions and Gender Index (SIGI), tend to have poorer human development
+outcomes for women than for men. These discriminatory social institutions limit women’s decisionmaking power and status in the home, increase their vulnerability to violence, lead to unequal care
+for children (favouring sons) and reduce women’s access to resources and participation in politics and
+public life.
+
+Chapter 11 Inequality, Gender and Human Development in Africa / 261
+
+While these findings do not establish causality, they do indicate that tackling the root causes of gender
+inequality may be a useful channel toward improving the lives of both women and men. To this end,
+the Africa Human Development Report proposes a five-fold approach toward the achievement of
+sustainable human development by accelerating gender equality and the empowerment of women.
+This approach first shifts the focus from gender equality as a separate outcome to advancing gender
+equality and women’s empowerment as a critical enabler of all development outcomes. Second, it
+encourages strong leadership and accountability in tackling destructive social norms in all their forms
+and at all levels. Third, it calls for strategic choices in planning and budgeting that forgo the shortterm gains of the status quo in favour of investments toward a more empowered and inclusive growth
+trajectory. It also calls for more adaptive, socially responsive, representative institutions and better data
+for effective decision-making. Finally, this approach fosters regional and South-South cooperation in
+the design and implementation of gender-focused policies and initiatives.
+
+11.5 Policy response to reduce inequality in human development and achieve Agenda
+2063 and the Sustainable Development Goals
+In view of the preceding analysis, this section draws upon the findings from a review of Africa’s
+progress toward global and regional development goals, including the Millennium Development
+Goals (MDGs) (AU et al. 2015). The focus is on providing key policy conclusions that contribute to
+closing the human development gap in SSA by accelerating achievement of the new global Agenda
+2030 for Sustainable Development (Agenda 2030) and the African Union’s Agenda 2063.
+Africa’s economic structure offers some insights into poverty, growth and inequality dynamics on
+the continent. The composition of GDP by sector is telling in terms of the wealth redistribution
+channels for poverty reduction. There have been shifts in all sectors from 2000 to 2014, particularly in
+agriculture, which has traditionally provided a source of livelihood for most of the African population,
+albeit at a subsistence level. Unlike the structural transformation seen in other regions, however, the
+shift away from agriculture has not been toward manufacturing or labour-intensive industry, but
+rather services, which has not created sufficient jobs for the majority. This trend is a cause for concern
+because it has not encouraged the growth of labour-intensive industry and light manufacturing for
+inclusive growth or provided building blocks for diversification and dynamism in local economies.
+Addressing the underlying causes of the different dimensions of inequalities, it can be observed that
+SSA will put the region on a better footing toward sustainable development. High levels of inequality
+have proven to be less poverty-reducing because the benefits of growth accrue to a few individuals
+(non-inclusive growth), hence the slower-than-anticipated pace of poverty reduction in Africa,
+despite a decade of strong growth. Using the Gini measure, SSA is on average more unequal relative
+to the rest of the developing world. Africa’s mean Gini coefficient4 stands at 0.43, whereas for other
+non-African developing countries, the average Gini coefficient is lower, at 0.39 (Bhorat, 2015). SSA
+alone had an average Gini coefficient of 0.44 in 2015, slightly higher than the continental average (see
+below), with mostly the Southern and Central African subregions pushing up the regional average.
+Angola, Botswana, Central African Republic, Comoros, Namibia, South Africa and Zambia
+have exceptionally high income inequalities, which have tended to increase the overall result for
+The Gini index measures the extent to which distribution of income (or, in some cases, consumption expenditure) among individuals or households within
+an economy deviates from a perfectly equal distribution. It is expressed as a percentage of the maximum area under a line. Thus, a Gini index of 0
+represents perfect equality, while an index of 100 implies perfect inequality (World Bank, 2016).
+
+4
+
+262 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+Africa. Removing these seven outlier countries puts Africa at the same level of inequality as other
+developing countries (Bhorat et al., 2016). These trends have almost mirrored (in reverse) poverty
+reduction trends in many countries. Poverty has tended to decrease much faster in economies with
+relatively lower income inequalities and more diversified economic structures than countries with
+large enclave sectors that have higher returns on capital relative to labour. Ultimately, for Africa to
+significantly reduce poverty, the economic structure must shift more toward light manufacturing
+and industrialisation to create employment and a more sustainable human development path for the
+continent.
+
+11.5.1 Macro and sector policy responses at national, regional and continental levels
+Economic structural transformation. Africa needs to transform its economic structures to diversify
+its economic base, create jobs for the many unemployed youth and women, and start reversing the
+high inequality trends on the continent. Important lessons abound on the impact on poverty and
+inequality trends of the growth that Africa has enjoyed for the past ten years. Progress on poverty
+eradication will depend largely on sustained industrialisation and agricultural transformation.
+Macroeconomic and political stability. Development has occurred where there has been a stable
+and conducive environment for investments and growth. Past growth rates have been buoyed in part
+by stable operating environments. Africa is inundated with examples of development reversals due to
+unstable economic and political environments. Achieving most, if not all, of the SDGs will depend
+on stability in operating environments.
+Sustainable urbanisation. Africa has the opportunity to promote sustainable urbanisation to
+accelerate inclusive structural transformation and poverty and inequality reduction. This will involve
+the promotion of sustainable livelihoods and access to public services – transport, infrastructure,
+housing, water, sanitation and energy – for Africa’s rising population. National institutions will have
+to address simultaneous environmental challenges, such as land, water and air pollution due to rapid
+urbanisation, including the additional pressures from climate change. Investment will be required
+to develop urban connectivity to exploit economies of agglomeration for structural transformation.
+Finally, there is a need for measures to mitigate the impact of urban expansion into rural areas, which
+include changing land use patterns and skewed land distribution impacts.
+
+11.5.2 E nabling frameworks to harness new actors, partners and emerging opportunities
+Domestic resource mobilisation. Financing plays a substantial role in determining areas of
+investment and development outcomes. The MDG agenda depended largely on ODA. Countries will
+have to design innovative policies for domestic resource mobilisation in order to finance the SDGs.
+The anticipated structural transformation and growth will have to come with changes in national and
+global tax policies in order to fairly distribute the burden of financing public spending.
+Infrastructure development. Infrastructure has the potential to contribute to sustainable development
+by connecting citizens and firms to economic opportunities. Africa has large infrastructure deficits
+in transportation (roads, air and rail), energy (electricity and water) and technology. Removing
+infrastructure deficits would spur economic activity and growth, as well as provide significant benefits
+for human development. Investing in Africa’s infrastructure will drastically reduce the cost of doing
+business on the continent and boost trade, achieve the regional integration objectives under Agenda
+2063 and raise the quality of life by increasing access to markets, education and health opportunities.
+Chapter 11 Inequality, Gender and Human Development in Africa / 263
+
+Regional integration. Regional integration is a pathway for countries to achieve economic, social
+and environmental priorities toward more sustainable and equitable human development. Regional
+integration consists of uniting countries, institutions, people and ideas by eliminating barriers to
+trade, harmonizing standards and regulatory frameworks, enhancing financial flows and labour
+mobility, adopting common approaches to fiscal and monetary policies, promoting peace and conflict
+prevention, and carrying out joint investment in cross-border infrastructure (transport, power and
+communications). Accelerating the pace of regional integration will require greater policy coherence
+across national and regional policies and more effective leadership of regional institutions that are
+accountable to member states. In addition to providing the necessary funding, technical and human
+resources required, regional institutions must ensure that citizens have a say in key decisions taken at
+the regional level in order to ensure broad buy-in.
+
+11.5.3 Key investment focus areas with multiplier effects for achieving the
+Sustainable Development Goals
+Human capital development and youth empowerment. Building human capital will continue to
+demand attention in Africa in the medium to long term. With improvements in some of the human
+development indicators and not in others, there is room to finish the unfinished business of the MDG
+agenda for meaningful development to take place on the continent. SDGs 1 (poverty eradication), 2
+(food security), 3 (health), 4 (education), 5 (gender equality) and 6 (sanitation) will be at the centre
+of this development objective.
+Resilience building. Africa remains vulnerable to shocks, disasters and conflicts, which continue to
+erode the continent’s development progress. Rollbacks in progress have resulted from: the commodity
+price decline; domestic conflicts in many of the countries, especially in Central Africa; increases in
+violent extremism activities; climate change effects, as seen in the Sahel, the Horn of Africa and
+Southern African regions; and the recent Ebola crisis. Building strong socioeconomic, governance
+and environmental systems to withstand such shocks, in addition to implementing effective social
+protection policies and programmes will have to be part and parcel of the new agenda for sustainable
+development.
+Accelerating gender equality and women’s empowerment. Ensuring that women receive the same
+economic, social and political opportunities by shifting from the current situation of legal gender
+equality to more substantive gender equality offers a pathway to more inclusive economic growth
+and human development. This entails supporting adoption of legal reforms, policies and programmes
+to advance women’s empowerment. It also requires supporting national capacities to promote and
+increase women’s participation and leadership in decision-making in the home, the economy and
+society. In addition, the capacity to implement multi-sectoral approaches to mitigate the impacts of
+discriminatory health and education practices must be enhanced. Finally, supporting women to gain
+ownership and management of economic and environmental assets is fundamental.
+
+264 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+REFERENCES
+Adjiwanou, V. and T. LeGrand. 2014. Gender inequality and the use of maternal healthcare services in rural sub-Saharan Africa. Health &
+Place 29, 67-78.
+African Union, United Nations Economic Commission for Africa (UNECA), AfDB (African Development Bank) and United Nations
+Development Programme (UNDP). 2015. MDG Progress Report: Assessing Progress in Africa toward the Millennium Development Goals,
+UN Economic Commission for Africa, Addis Ababa. www.undp.org/content/undp/en/home/librarypage/mdg/mdg-reports/africa-collection.html
+Agbor, J. 2012. Poverty, Inequality and Africa’s Education Crisis. The Brookings Institute.
+Alkire S., C. Jindra, G. Robles and A. Vaz. 2016. Multidimensional Poverty in Africa, Oxford Poverty and Human Development Initiative.
+Briefing 40.
+Alkire, S. and J.E. Foster. 2010. Designing the Inequality-Adjusted Human Development Index. OPHI Working Paper No. 37.
+Anyanwu, J.C., A.E. Erhijakpor, A.E. and E. Obi. 2016. Empirical analysis of the key drivers of income inequality in West Africa. African
+Development Review 28(1), 18-38.
+Atkinson, A. 1970. On the measurement of economic inequality. Journal of Economic Theory 2(3): 244–263.
+Autor, D.H. 2014. Skills, education, and the rise of earnings inequality among the ‘other 99 per cent’. Science 344, no. 6186: 843–851.
+Bandara, A. 2015. The economic cost of gender gaps in effective labor: Africa’s missing growth reserve. Feminist Economist, Vol. 21/2, pp.
+162-186, www.tandfonline.com/doi/pdf/10.1080/13545701.2014.986153
+Bhorat, H., K. Naido and K. Pillay. 2016. Growth, poverty and inequality interactions in Africa: An overview of key issues. UNDP Working
+Paper Series (UNDP-RBA/WPS/1/2016).
+Blanden, J. 2013. Cross-country rankings in intergenerational mobility: a comparison of approaches from economics and sociology. Journal
+of Economic Surveys 27(1), 38-73.
+Di Cesare, M., Y.H. Khang, P. Asaria, T. Blakely, M.J. Cowan, F. Farzadfar, R. Guerrero, N. Ikeda, C. Kyobutungi, K.P. Msyamboza,
+S. Oum, J.W. Lynch, M.G. Marmot and M. Ezzati. 2013. Inequalities in non-communicable diseases and effective responses. The Lancet,
+381(9866), 585-597.
+Duncan, G.J. and R.J. Murnane, eds. 2011. Whither Opportunity? Rising Inequality, Schools, and Children’s Life Chances. Russell Sage
+Foundation.
+Economist Intelligence Unit. 2015. Democracy Index 2014: Democracy and its discontents. Report from The Economist Intelligence Unit:
+1-55.
+Foster, J., E., L.F. Lopez-Calva and M. Szekely. 2005. Measuring the distribution of human development: methodology and an application
+to Mexico. Journal of Human Development, 6:1.
+ILO (International Labour Organisation). 2015. Global Employment Trends for Youth 2015: Scaling up Investments in Decent Jobs for
+Youth. Geneva.
+IPU (International Parliamentary Union). 2016. Women in National Parliaments Database. www.ipu.org/wmn-e/world.htm
+ITU (International Telecommunication Union). 2013. ICT Facts and Figures 2013. Geneva, ICT.
+_____ .2015. ICT Facts and Figures 2015. Geneva, ICT.
+Keswell, M., S. Girdwood and M. Leibbrandt. 2013. Educational inheritance and the distribution of occupations: evidence from South
+Africa. Review of Income and Wealth 59(S1), S111-S137.
+Lambert, S., M. Ravallion and D. Van de Walle. 2014. Intergenerational mobility and interpersonal inequality in an African economy.
+Journal of Development Economics 110, 327-344.
+Mills, A., J.E. Ataguba, J. Akazili, J. Borghi, B. Garshong, S. Makawia, G. Mtei, B. Harris, J. Macha, F. Meheus and D. McIntyre.
+2012. Equity in financing and use of health care in Ghana, South Africa, and Tanzania: implications for paths to universal coverage. The Lancet
+380, no. 9837: 126-133.
+Nishimura, M. and T. Yamano. 2013. Emerging private education in Africa: determinants of school choice in rural Kenya. World Development
+43, 266-275.
+Ombati, V. and O. Mokua. 2012. Gender inequality in education in sub-Saharan Africa. Journal of Women’s Entrepreneurship and Education,
+114-136.
+Phiri, J. and J.E. Ataguba. 2014. Inequalities in public health care delivery in Zambia. Int J Equity Health 13, 24.
+Pinheiro, P.S. 2006. World Report on Violence against Children. New York, UNICEF.
+Piraino, P. 2015. Intergenerational earnings mobility and equality of opportunity in South Africa. World Development 67, 396-405.
+Senadza, B. 2012. Education Inequality in Ghana: gender and spatial dimensions. Journal of Economic Studies 39(6), 724-739.
+Stewart, F., ed. 2008. Horizontal Inequalities and Conflict. London, Palgrave Macmillan.
+Chapter 11 Inequality, Gender and Human Development in Africa / 265
+
+Torche, F. 2014. Intergenerational mobility and inequality: the Latin American case. Annual Review of Sociology 40, 619-642.
+UNDESA (United Nations Department of Economic and Social Affairs). 2015. World population prospects: The 2015 revision, key
+findings and advance tables. Working Paper No. ESA/P/WP.241. New York, United Nations Department of Economic and Social Affairs,
+Population Division. http://esa.un.org/unpd/wpp/publications/files/key_findings_wpp_2015.pdf
+UNDP (United Nations Development Programme). 1990. Human Development Report 1990. Oxford, Oxford University Press.
+_____. 1994. Human Development Report 1994. Oxford: Oxford University Press.
+_____. 2013a. Humanity Divided: Confronting Inequality in Developing Countries. New York. 2013b.
+_____. 2013b The Rise of the South: Human Progress in a Diverse World. New York. http://hdr.undp.org/en/2013-report
+_____. 2015a. Human Development Report 2015. Work for Human Development. New York.
+_____. 2015b. Human Development Report 2015. Technical Notes. Calculating the Human Development Indices - Graphical Presentation.
+http://hdr.undp.org/sites/default/files/hdr2015_technical_notes.pdf
+_____. 2016. Accelerating Gender Equality and Women’s Empowerment in Africa.
+UNDP (United Nations Development Programme) Regional Bureau for Africa. 2016. Human Development Report 2016. New York.
+UNECA (United Nations Economic Commission for Africa). 2015. MDG Report 2015: Assessing Progress in Africa toward the Millennium
+Development Goals. Addis Ababa.
+UN Habitat (United Nations Human Settlements Programme). 2013. State of the World’s Cities 2012/2013. Kenya.
+United Nations. 2015. The Millennium Development Goals Report. New York: United Nations.
+_____. 2015. ICT Facts and Figures 2015. Geneva, ICT.
+Van Fleet, J. W., K. Watkins and L. Greubel. 2012. Africa Learning Barometer. www.brookings.edu/research/interactives/africa-learningbarometer
+Wabiri, N. and N. Taffa. 2013. Socio-economic Inequality and HIV in South Africa. BMC Public Health, 13(1), 1. World Bank. 2015. World
+Development Indicators. Washington, D.C.
+World Bank. 2015. World Development Indicators. Washington, D.C.
+
+266 / Income Inequality Trends in sub-Saharan Africa: Divergence, determinants and consequences
+
+
