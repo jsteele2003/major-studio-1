@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.0/mapbox-gl.js'></script>
+        <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.0/mapbox-gl.css' rel='stylesheet' />
+        
+        <style type="text/css">
+            html, body #wrapper{
+                width: 100%;
+                height: 100%;
+                padding: 0;
+                margin: 0;
+            }
+            
+            #map{
+                position: relative;
+                width: 100%;
+                height: 100%;
+            }
+            
+            svg {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+            }
+
+            .hidden {
+            	display: none;
+            }
+        </style>
+   </head> 
+    <body>
+        <div id='wrapper'>
+            <div id='map'>
+                
+            </div>
+        </div>
+        <script>
+            mapboxgl.accessToken = 'pk.eyJ1Ijoiam9lc3RlZWxlIiwiYSI6ImNqOXp5bjlyZzJqdXUzMnBjNXppbGV2Nm4ifQ.p_Pk2DU8shEp1UNTauqf2Q';
+            var map = new mapboxgl.Map({
+                    container: 'map',
+                    style: 'mapbox://styles/mapbox/bright-v9',
+                    center: [18.2812, 9.1021], // 9.1021° N, 18.2812° E
+                    zoom: 4
+                });
+            d3.json('africa.geo.json', function(err, data) {
+                draw(data);
+            });
+            
+            function draw(geojson){
+                
+                map.addControl(new mapboxgl.NavigationControl());
+                var container = map.getCanvasContainer();
+                var svg = d3.select(container).append('svg');
+                var transform = d3.geoTransform({
+                    point: projectPoint
+                });
+                var path = d3.geoPath().projection(transform);
+                var featureElement = svg.selectAll('path')
+                    .data(geojson.features)
+                    .enter()
+                    .append('path')
+                    .attr('d', d3.geoPath().projection(transform))
+                    .attr('fill', 'gray');
+                
+                svg.append("text")
+                    .attr('id', 'hover');
+                
+                function update(){
+                    featureElement.attr('d', path);
+                }
+                
+                map.on('viewreset', update)
+                
+                map.on('movestart', function(){
+                    svg.classed("hidden", true);
+                })
+                
+                map.on('rotate', function(){
+                    svg.classed("hidden", true);
+                })
+                
+                map.on('moveend', function(){
+                    update();
+                    	svg.classed("hidden", false);
+                })
+                
+                update();
+                
+                function projectPoint(lon, lat){
+                    var point = map.project(new mapboxgl.LngLat(lon, lat));
+                    this.stream.point(point.x, point.y);
+                }
+            }
+            
+            
+        </script>
+    </body>
+</html>
