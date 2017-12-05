@@ -1,0 +1,82 @@
+<!doctype html> 
+<link type="text/css" rel="stylesheet" href="./dependencies/rickshaw.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+<script src="./dependencies/rickshaw.min.js"></script> 
+ 
+ <style>
+#chart_container {
+        position: relative;
+        font-family: Arial, Helvetica, sans-serif;
+}
+#chart {
+        position: relative;
+        left: 40px;
+}
+#y_axis {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 40px;
+}
+</style>
+ 
+<div id="chart_container">
+        <div id="y_axis"></div>
+        <div id="chart"></div>
+</div>
+
+<script>
+var graph = new Rickshaw.Graph( {
+        element: document.querySelector("#chart"),
+        width: 540,
+        height: 240,
+        series: [ {
+                data: [ { x: 1976, y: 48.20879 },
+  { x: 1980, y: 69.86821 },
+  { x: 1981, y: 68.59484 },
+  { x: 1982, y: 63.71823 },
+  { x: 1983, y: 62.473 },
+  { x: 1984, y: 59.27858 },
+  { x: 1985, y: 56.44038 },
+  { x: 1986, y: 55.13037 },
+  { x: 1987, y: 53.67842 },
+  { x: 1988, y: 52.0428 },
+  { x: 1989, y: 51.96134 },
+  { x: 1990, y: 51.32411 },
+  { x: 1991, y: 50.64376 },
+  { x: 1992, y: 50.74325 },
+  { x: 1993, y: 49.9795 },
+  { x: 1994, y: 48.79242 },
+  { x: 1995, y: 48.70762 },
+  { x: 1996, y: 48.83927 },
+  { x: 1997, y: 49.25691 },
+  { x: 1998, y: 48.74523 },
+  { x: 1999, y: 49.201 },
+  { x: 2000, y: 52.80456 },
+  { x: 2001, y: 57.46755 },
+  { x: 2002, y: 72.33329 },
+  { x: 2003, y: 80.72917 },
+  { x: 2004, y: 85.01788 },
+  { x: 2005, y: 89.28662 },
+  { x: 2006, y: 94.59887 },
+  { x: 2008, y: 95.63293 },
+  { x: 2010, y: 88.71225 },
+  { x: 2012, y: 84.20359 },
+  { x: 2013, y: 80.89861 },
+  { x: 2014, y: 80.09053 } ], 
+                color: 'steelblue'
+        } ]
+} );
+
+var x_axis = new Rickshaw.Graph.Axis.Time( { graph: graph } );
+
+var y_axis = new Rickshaw.Graph.Axis.Y( {
+        graph: graph,
+        orientation: 'left',
+        tickFormat: Rickshaw.Fixtures.Number.formatKMBT,
+        element: document.getElementById('y_axis'),
+} );
+
+graph.render();
+
+</script>

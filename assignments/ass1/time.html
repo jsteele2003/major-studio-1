@@ -81,6 +81,13 @@ li.key {
             }
         };
    
+      $scope.$watch('slider.value', function(newYear){
+        //gini.updateChoropleth({});
+        gini.updateChoropleth(timeData[newYear]);
+        nerS.updateChoropleth(nerSData[newYear]);
+        nerP.updateChoropleth(nerPData[newYear]);
+      })
+    }
         
     //Old Slider
     
@@ -93,13 +100,6 @@ li.key {
     //   })
     
     
-      $scope.$watch('slider.value', function(newYear){
-        //gini.updateChoropleth({});
-        gini.updateChoropleth(timeData[newYear]);
-        nerS.updateChoropleth(nerSData[newYear]);
-        nerP.updateChoropleth(nerPData[newYear]);
-      })
-    }
   </script>
       <h1>Education and Inequality Metrics, 1970-2015</h1>
 <div class = "container-fluid">
@@ -141,11 +141,11 @@ li.key {
             }},
         
         fills: {
-        '>60': '#993404',
-        '50-60': '#d95f0e',
-        "40-50": '#fe9929',
-        '30-40': '#fed98e',
         '<30' : "#ffffd4" ,
+        '30-40': '#fed98e',
+        "40-50": '#fe9929',
+        '50-60': '#d95f0e',
+        '>60': '#993404',
         defaultFill : "grey"
         },
         
@@ -207,15 +207,15 @@ li.key {
             }},
         
         fills: {
-        '>90%': '#49006a',
-        '80-90%' : '#7a0177',
-        '70-80%': '#ae017e',
-        '60-70%': '#dd3497',
+        '>90%': "#fff7f3" ,
+        '80-90%' :'#fde0dd',
+        '70-80%': '#fcc5c0',
+        '60-70%': '#fa9fb5',
         '50-60%': '#f768a1',
-        "40-50%": '#fa9fb5',
-        '30-40%': '#fcc5c0',
-        '20-30%': '#fde0dd',
-        '<20%' : "#fff7f3" ,
+        "40-50%": '#dd3497',
+        '30-40%': '#ae017e',
+        '20-30%': '#7a0177',
+        '<20%' : '#49006a',
         defaultFill : "grey"
         },
         

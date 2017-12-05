@@ -93,6 +93,9 @@ var nerParser =  parse(function(err, data){
             fs.writeFile('./data/primaryYears.json', JSON.stringify(timeSeries), (err) => {
               if (err) throw err;
             });
+            fs.writeFile('./data/primaryCountries.json', JSON.stringify(countrySeries), (err) => {
+              if (err) throw err;
+            });
         }
         else{
             fs.writeFile('./data/secondaryYears.json', JSON.stringify(timeSeries), (err) => {
@@ -100,7 +103,7 @@ var nerParser =  parse(function(err, data){
             });
         }
         
-        console.log(timeSeries[2013]);
+        // console.log(countrySeries['TZA']);
         
         function createItem(elem){
             var year = elem[4];
@@ -145,11 +148,14 @@ var nerParser =  parse(function(err, data){
                                             };
             }
             
-        
+            var epoch = new Date(year);
+            var seconds = Math.round(epoch.getTime() / 1000);
+            // console.log(seconds)
+            
             if(!countrySeries.hasOwnProperty(country)){
-                countrySeries[country] = [{x : year, y: ner}];
+                countrySeries[country] = [{x : parseInt(seconds), y: parseFloat(ner)}];
                 } else{
-                    countrySeries[country].push({x: year, y : ner})
+                    countrySeries[country].push({x: parseInt(seconds), y : parseFloat(ner)})
                 }
         }
     })
