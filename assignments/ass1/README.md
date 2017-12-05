@@ -1,6 +1,6 @@
 # Animated Time-Series and Choropleths for Worldwide Education Enrolment and Income Inequality
 
-![Preview](https://github.com/jsteele2003/major-studio-1/blob/master/assignments/ass1/data/Screen%20Shot%202017-12-05%20at%2012.04.42.png)
+[![Preview](https://github.com/jsteele2003/major-studio-1/blob/master/assignments/ass1/data/Screen%20Shot%202017-12-05%20at%2012.04.42.png)](https://jsteele2003.github.io/major-studio-1/assignments/ass1/time.html)
 
 Abstract:
 
