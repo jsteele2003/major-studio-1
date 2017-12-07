@@ -8,7 +8,7 @@ var giniParser = parse(function(err, data){
     // console.log(data.length)
     var timeSeries = {};
     
-    data.forEach(function iteratee(elem, index){
+    data.forEach(function iterator(elem, index){
         if(index != 0){
         createItem(elem);
         }
@@ -52,22 +52,6 @@ var giniParser = parse(function(err, data){
             }
     }
     
-    function setFillKey(gini){
-        switch(true){
-            case (gini > 60):
-                return ">60";
-            case (gini <= 60 && gini > 50):
-                return "50-60";
-            case (gini <= 50 && gini > 40):
-                return "40-50";
-            case (gini <= 40 && gini >30 ):
-                return "30-40";
-            case (gini <= 30):
-                return "<30";
-            case (gini == 0):
-                return "Missing Data";
-        }
-    }
 });
 
 
@@ -83,7 +67,7 @@ var nerParser =  parse(function(err, data){
             level = 'S';
         }
         
-         data.forEach(function iteratee(elem, index){
+         data.forEach(function iterator(elem, index){
             if(index != 0){
             createItem(elem);
             }
@@ -113,29 +97,6 @@ var nerParser =  parse(function(err, data){
             var ner = elem[6];
             var fillKey = setFillKey(ner);
             
-            function setFillKey(ratio){
-                 switch(true){
-                    case (ratio > 90):
-                        return '>90%';
-                    case (ratio <= 90 && ratio > 80):
-                        return "80-90%";
-                    case (ratio <= 80 && ratio > 70):
-                        return "70-80%";
-                    case (ratio <= 70 && ratio > 60):
-                        return "60-70%";
-                    case (ratio <= 60 && ratio > 50):
-                        return "50-60%";
-                    case (ratio <= 50 && ratio > 40):
-                        return "40-50%";
-                    case (ratio <= 40 && ratio >30 ):
-                        return "30-40%";
-                    case (ratio <= 30 && ratio >20):
-                        return "20-30%";
-                    case (ratio <20):
-                        return "<20%";
-                }
-            }
-            
             var countryDict = {};
             if(!timeSeries.hasOwnProperty(year)){
                     countryDict[country] = {'ner' : ner,
@@ -159,6 +120,30 @@ var nerParser =  parse(function(err, data){
                 }
         }
     })
-// fs.createReadStream('./data/wiid.csv').pipe(giniParser);
-fs.createReadStream('./data/NER_Primary.csv').pipe(nerParser);
+    
+    function setFillKey(elem){
+        switch(true){
+            case (elem > 90):
+                return '>90%';
+            case (elem <= 90 && elem > 80):
+                return "80-90%";
+            case (elem <= 80 && elem > 70):
+                return "70-80%";
+            case (elem <= 70 && elem > 60):
+                return "60-70%";
+            case (elem <= 60 && elem > 50):
+                return "50-60%";
+            case (elem <= 50 && elem > 40):
+                return "40-50%";
+            case (elem <= 40 && elem >30 ):
+                return "30-40%";
+            case (elem <= 30 && elem >20):
+                return "20-30%";
+            case (elem <20):
+                return "<20%";
+        }
+    }
+    
+fs.createReadStream('./data/wiid.csv').pipe(giniParser);
+// fs.createReadStream('./data/NER_Primary.csv').pipe(nerParser);
 // fs.createReadStream('./data/NER_Secondary.csv').pipe(nerParser);
