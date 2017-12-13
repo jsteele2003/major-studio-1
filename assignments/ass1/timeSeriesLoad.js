@@ -40,11 +40,11 @@ var giniParser = parse(function(err, data){
             } else{
                 if(timeSeries[year].hasOwnProperty(country)){
                     timeSeries[year][country].count++,
-                    timeSeries[year][country].gini += (parseFloat(gini) - timeSeries[year][country].gini)/timeSeries[year][country].count;
+                    timeSeries[year][country].gini += ((parseFloat(gini).toFixed(1) - timeSeries[year][country].gini)/timeSeries[year][country].count);
                     timeSeries[year][country].fillKey = setFillKey(timeSeries[year][country].gini)
                 }
                 else {
-                    timeSeries[year][country] = {'gini' : parseFloat(gini),
+                    timeSeries[year][country] = {'gini' : parseFloat(gini).toFixed(1),
                                                  'fillKey' : fillKey,
                                                  'count' : 1
                                                 };
@@ -124,23 +124,23 @@ var nerParser =  parse(function(err, data){
     function setFillKey(elem){
         switch(true){
             case (elem > 90):
-                return '>90%';
+                return '>90';
             case (elem <= 90 && elem > 80):
-                return "80-90%";
+                return "80-90";
             case (elem <= 80 && elem > 70):
-                return "70-80%";
+                return "70-80";
             case (elem <= 70 && elem > 60):
-                return "60-70%";
+                return "60-70";
             case (elem <= 60 && elem > 50):
-                return "50-60%";
+                return "50-60";
             case (elem <= 50 && elem > 40):
-                return "40-50%";
+                return "40-50";
             case (elem <= 40 && elem >30 ):
-                return "30-40%";
+                return "30-40";
             case (elem <= 30 && elem >20):
-                return "20-30%";
+                return "20-30";
             case (elem <20):
-                return "<20%";
+                return "<20";
         }
     }
     
