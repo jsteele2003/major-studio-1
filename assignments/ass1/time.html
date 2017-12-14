@@ -89,7 +89,7 @@ li.key {
         $scope.animateSlider = function(){
           if(play == true){
                 $scope.slider.value += 1
-                $timeout($scope.animateSlider, 1000);
+                $timeout($scope.animateSlider, 500);
                 if($scope.slider.value >= 2015){
                     $scope.slider.value = 1969;
                 }
@@ -130,7 +130,7 @@ li.key {
     	    <h1 class="jumbotron-heading ">Does Educational Access Track with Inequality?</h1>
         	              
             <div class = slider>
-            	<p class="sliderIntro">Press Play, or Use the Slider to Track Each Metric, from 1970-2015 </p>
+            	<p class="sliderIntro">Press Play or Use the Slider to Track Each Metric, from 1970-2015 </p>
             	<button id="playButton"  ng-click='toggle(); animateSlider()'> <i class="fa fa-play"></i></button>
                 <br/>
                     <rzslider
@@ -189,7 +189,8 @@ li.key {
         
         setProjection: function (element) {
                 var projection = d3.geo.azimuthalEqualArea()
-                    .scale(200)
+                    .scale(260)
+                    .center([21.7587, 4.0383])
                     .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
                 var path = d3.geo.path().projection(projection);
                 return { path: path, projection: projection };
@@ -208,7 +209,7 @@ li.key {
             if(data.ner != undefined){
                 return ['<div class="hoverinfo"><strong>',
                         geo.properties.name + "<br>" +
-                        ' NER: ' + data.ner + "<br>" + data.fillKey +
+                        ' NER: ' + parseFloat(data.ner).toFixed(1) + "%<br>" + data.fillKey +
                         '</strong></div>'].join('');}
             }
             
@@ -231,7 +232,8 @@ li.key {
         
         setProjection: function (element) {
                 var projection = d3.geo.azimuthalEqualArea()
-                    .scale(200)
+                    .scale(260)
+                    .center([21.7587, 4.0383])
                     .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
                 var path = d3.geo.path().projection(projection);
                 return { path: path, projection: projection };
@@ -246,11 +248,10 @@ li.key {
         },
         geographyConfig: {
             popupTemplate: function(geo, data) {
-            if(data.ner != undefined){
                 return ['<div class="hoverinfo"><strong>',
                         geo.properties.name + "<br>" +
-                        ' NER: ' + data.ner + "<br>" + data.fillKey +
-                        '</strong></div>'].join('');}
+                        ' NER: ' + parseFloat(data.ner).toFixed(1) + "%<br>" + data.fillKey +
+                        '</strong></div>'].join('');
             }},
         
         fills: {
@@ -270,7 +271,8 @@ li.key {
         
         setProjection: function (element) {
                 var projection = d3.geo.azimuthalEqualArea()
-                    .scale(200)
+                    .scale(260)
+                    .center([21.7587, 4.0383])
                     .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
                 var path = d3.geo.path().projection(projection);
                 return { path: path, projection: projection };
