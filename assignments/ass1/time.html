@@ -8,6 +8,14 @@ h1 {
 }
 .slider{text-align: center;
 }
+.button.play {
+  width: 74px;
+  height: 74px;
+  box-sizing: border-box;
+  border-width: 37px 0px 37px 74px;
+  border-style: solid;
+  border-color: transparent transparent transparent #202020;
+}
 .row {text-align: center}
     
     #Title{
@@ -57,8 +65,11 @@ li.key {
 <link rel="stylesheet" type="text/css" href="./dependencies/angularjs-slider/dist/rzslider.css"/>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.min.js"></script>
 <script src="./dependencies/angularjs-slider/dist/rzslider.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 
 <body ng-app="myapp" ng-controller='chartCtrl'>
+    
+  
   
   <script>
   var myApp = angular.module('myapp', ['rzModule']);
@@ -100,7 +111,6 @@ li.key {
             gini.updateChoropleth({}, {reset: true});
             nerS.updateChoropleth({}, {reset: true});
             nerP.updateChoropleth({}, {reset: true});
-            console.log('reached reset')
         } else{
             if(newYear == 1970){
                 console.log(nerSData[newYear]);
@@ -116,12 +126,12 @@ li.key {
     }
     
   </script>
-  <div class="jumbotron vertical-align">
+  <div class="jumbotron vertical-align" id="test">
     	    <h1 class="jumbotron-heading ">Does Educational Access Track with Inequality?</h1>
         	              
             <div class = slider>
             	<p class="sliderIntro">Press Play, or Use the Slider to Track Each Metric, from 1970-2015 </p>
-            	<button style="font-size:24px" ng-click='toggle(); animateSlider()'> <i class="fa fa-play"></i></button>
+            	<button id="playButton"  ng-click='toggle(); animateSlider()'> <i class="fa fa-play"></i></button>
                 <br/>
                     <rzslider
                         rz-slider-model="slider.value"
@@ -154,8 +164,6 @@ li.key {
         element: document.getElementById('container2'),
         done: function gRes(datamap) {
             datamap.svg.call(d3.behavior.zoom().on("zoom", redraw1));
-        
-
         },
         geographyConfig: {
             popupTemplate: function giniPop(geo, data) {
@@ -214,8 +222,8 @@ li.key {
         '50-60%': '#7bccc4',
         "40-50%": '#4eb3d3',
         '30-40%': '#2b8cbe',
-        '20-30%': '#084081',
-        '<20%' : '#08589e',
+        '20-30%': '#08589e',
+        '<20%' : '#084081',
         defaultFill : "grey"
         },
         
@@ -320,4 +328,11 @@ li.key {
     
 //})
 </script>
+    <script>
+    console.log($('#playButton').length)
+    $('#playButton').click(function(){
+        console.log(this);
+        $(this).find('i').toggleClass('fa fa-play fa fa-pause');
+    });
+  </script>
 </body>
