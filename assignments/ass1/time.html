@@ -248,10 +248,11 @@ li.key {
         },
         geographyConfig: {
             popupTemplate: function(geo, data) {
+            if(data.ner != undefined){
                 return ['<div class="hoverinfo"><strong>',
                         geo.properties.name + "<br>" +
                         ' NER: ' + parseFloat(data.ner).toFixed(1) + "%<br>" + data.fillKey +
-                        '</strong></div>'].join('');
+                        '</strong></div>'].join('');}
             }},
         
         fills: {
